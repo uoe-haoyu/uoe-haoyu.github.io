@@ -68,6 +68,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 
 ---
+---
 title: "Dong, W., Mitchard, E.T., Yu, H.*, Hancock, S. and Ryan, C.M., Forest aboveground biomass estimation using GEDI and earth observation data through attention-based deep learning. arXiv preprint arXiv:2311.03067, 2023."
 authors:
 - admin
@@ -135,4 +136,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
-
+---
