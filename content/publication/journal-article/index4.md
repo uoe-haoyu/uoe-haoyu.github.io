@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Yu, H., Yu, G.*, Xu, Y. and Zou, J., Torque performance improvement for slotted limited-angle torque motors by combined SMA application and GA optimization. IEEE Transactions on Magnetics, 2020."
 authors:
 - admin
 - Robert Ford
