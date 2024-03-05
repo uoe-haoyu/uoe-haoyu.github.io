@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Yu, H., Wan, X., Dong, Z., Zhang, Z. and Jia, J.*, Estimation of Reference Voltages for Time-difference Electrical Impedance Tomography. IEEE Transactions on Instrumentation and Measurement, 2022."
 authors:
 - admin
 - Robert Ford
