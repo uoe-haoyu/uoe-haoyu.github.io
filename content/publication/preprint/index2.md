@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Yao, J., Yu, H.*, Judge, P. and Djokic, S.Z., Data-Driven Modelling for Harmonic Current Emission in Low-Voltage Grid using MCReSANet with Interpretability Analysis. arXiv preprint arXiv:2311.15420, 2023."
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
