@@ -1,8 +1,7 @@
 ---
-title: "An example journal article"
+title: "Zhang,Z.,Yu, H. and Jia,J.*,3D Mechanical Ventilation Control System Based on Electrical Impedance Tomography. International Journal of Bioelectromagnetism. 2022."
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -27,7 +26,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Conference
 featured: false
 
 # links:
