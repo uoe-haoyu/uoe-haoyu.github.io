@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Dong, W., Mitchard, E.T., Yu, H.*, Hancock, S. and Ryan, C.M., Forest aboveground biomass estimation using GEDI and earth observation data through attention-based deep learning. arXiv preprint arXiv:2311.03067, 2023."
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
