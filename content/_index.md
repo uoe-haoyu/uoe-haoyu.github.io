@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
+        - title: Team Leader 
           company: GenCoin
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2021-10-01'
           date_end: ''
-          description: |2-
+          description: A Critical Discourse Analysis of Enterprises’ Annual Reports
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
+              * Led a group of 5 to collect and compile a corpus composed of the annual reports of 100+ Chinese and American companies
+              * Analyzed the frequency of specific words, index lines, collocations, and naming strategies
+              * Explored linguistic characteristics and ideologies of corporate annual reports, as well as how they contribute to the construction of corporate identity
+        - title: Administrative Assistant
           company: University X
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2019-05-01'
+          date_end: '2019-07-31'
+          description: Human Resources Department of Harbin Institute of Technology
     design:
       columns: '2'
   - block: accomplishments
