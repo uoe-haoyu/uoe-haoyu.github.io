@@ -2,7 +2,6 @@
 title: "Yu, H., Wan, X. and Jia, J.*, Extracting reference voltages from measurement voltages for oil-water two-phase flow measurement of electrical impedance tomography. Flow Measurement and Instrumentation, 2023."
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
