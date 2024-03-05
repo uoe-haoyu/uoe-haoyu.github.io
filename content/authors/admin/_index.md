@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Hao Yu
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
@@ -36,15 +36,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD, Institute for Imaging, Data and Communications
+      institution: University of Edinburgh, Edinburgh, UK
+      year: 2020-Present
+    - course: MSc, Electrical Engineering and Automation
+      institution: Harbin Institute of Technology, Harbin, China   
+      year: 2018–2020
+    - course: BEng, Exchange student, Armour College of Engineering
+      institution: Illinois Institute of Technology, Chicago, USA 
+      year: 2018
+    - course: BEng., Electrical Engineering and Automation
+      institution: North China Electric Power University, Baoding, China   
+      year: 2014–2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
