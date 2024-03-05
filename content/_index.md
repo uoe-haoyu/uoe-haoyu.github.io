@@ -89,7 +89,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Accomplishments& Honor'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -106,7 +106,7 @@ sections:
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Outstanding Graduate of Hebei Province (NCEPU)			
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -115,7 +115,7 @@ sections:
           icon: edx
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Dean’s List (IIT)	
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -124,7 +124,7 @@ sections:
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: Nation Scholarship of China (top 2%, NCEPU)		
           url: ''
     design:
       columns: '2'
