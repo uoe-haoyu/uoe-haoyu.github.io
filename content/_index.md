@@ -70,7 +70,7 @@ sections:
           date_start: '2021-10-01'
           date_end: ''
           description: |2-
-               A Critical Discourse Analysis of Enterprises’ Annual Reports
+               A Critical Discourse Analysis of Enterprises’ Annual Reports,
               Responsibilities include:
 
               * Led a group of 5 to collect and compile a corpus composed of the annual reports of 100+ Chinese and American companies
