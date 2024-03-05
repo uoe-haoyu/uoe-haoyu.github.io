@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Han, W., Li, Y., Yu, H. and Jia, J.*, V-Pen: An Acoustic-based Fine-Grained Virtual Pen Input System Using Hand Tracking. IEEE Transactions on Instrumentation and Measurement, 2024."
 authors:
 - admin
 - Robert Ford
