@@ -1,12 +1,11 @@
 ---
-title: 'An example conference paper'
+title: 'Yu, H., Zhang, Z. and Jia, J.*, Light-weight CNNs with Dynamic Convolution for Lung EIT. International Journal of Bioelectromagnetism. 2022.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
@@ -33,7 +32,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [IEEE]
 
 # Display this page in the Featured widget?
 featured: true
