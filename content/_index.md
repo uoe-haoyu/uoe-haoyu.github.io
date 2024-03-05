@@ -126,6 +126,16 @@ sections:
           organization_url: https://www.datacamp.com
           title: Nation Scholarship of China (top 2%, NCEPU)		
           url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: 'National Third Prize in the E-Commerce Innovation, Creativity, and Entrepreneurship Challenge for College Students  2017
+First Prize in Hebei Province for the "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition  	'
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: National Third Prize in the E-Commerce Innovation
+          url: ''
     design:
       columns: '2'
   - block: collection
