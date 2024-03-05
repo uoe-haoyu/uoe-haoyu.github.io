@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Yu, H., Zhang, Z., Gao, Y. and Jia, J.*, Multiscale Voltage Reconstruction with Attention-Based Network for Volume Fraction Prediction of Industrial Oil–Water Two-Phase Flow by EIT. IEEE Transactions on Instrumentation and Measurement, 2022."
 authors:
 - admin
 - Robert Ford
