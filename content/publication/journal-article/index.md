@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: "Yu,H.*,Liu,H.,Liu,Z.,Wang,Z.and Jia,J.*, High-Resolution Conductivity Reconstruction by Electrical Impedance Tomography using Structure-Aware Hybrid-Fusion Learning. Computer methods and programs in biomedicine, 2024."
 authors:
 - admin
 - Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
