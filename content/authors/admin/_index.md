@@ -32,7 +32,7 @@ interests:
   - Deep Learning
   - Electrical Impedance Tomography
   - Medical Imaging
-  - Fault Diagnosis
+  - PMSM Fault Diagnosis
 
 # Education to show in About widget
 education:
@@ -125,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yu Hao is currently a postdoctoral researcher at the University of Edinburgh, working with Dr. Yunjie Yang. He completed his PhD at the University of Edinburgh, focusing on deep learning applications in electrical impedance tomography. His research interests include deep learning, electrical impedance tomography, medical imaging, and PMSM fault diagnosis.
 {style="text-align: justify;"}
