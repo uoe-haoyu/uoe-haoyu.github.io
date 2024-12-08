@@ -28,7 +28,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+news:
   - Deep Learning
   - Electrical Impedance Tomography
   - Medical Imaging
