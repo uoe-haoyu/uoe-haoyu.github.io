@@ -27,9 +27,28 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# News widget
-news:
-  - Our paper
+# Interests to show in About widget
+interests:
+  - Deep Learning
+  - Electrical Impedance Tomography
+  - Medical Imaging
+  - Fault Diagnosis
+
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD, Institute for Imaging, Data and Communications
+      institution: University of Edinburgh, Edinburgh, UK
+      year: 2020.11-2024.12
+    - course: MSc, Electrical Engineering and Automation
+      institution: Harbin Institute of Technology, Harbin, China   
+      year: 2018.09–2020.07
+    - course: BEng, Exchange student, Armour College of Engineering
+      institution: Illinois Institute of Technology, Chicago, USA 
+      year: 2018.01-2018.06
+    - course: BEng., Electrical Engineering and Automation
+      institution: North China Electric Power University, Baoding, China   
+      year: 2014.09–2018.07
 
 
 # Skills
