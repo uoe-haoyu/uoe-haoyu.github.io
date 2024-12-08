@@ -29,15 +29,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # News widget
 news:
-  - [2024-12] Our paper, *"Title of PhD Dissertation"* has been accepted by **Nature Communications**.
-  - [2024-09] I was invited to serve as a reviewer for **ICLR 2025**.
-  - [2024-05] I was invited to serve as a reviewer for **ACM Multimedia 2024**.
-  - [2024-03] One paper accepted to **Computational and Structural Biotechnology Journal**.
-  - [2024-01] One paper accepted to **ICLR 2024**.
-  - [2023-07] One paper accepted to **British Journal of Cancer**.
-  - [2023-07] Two papers accepted to **ACM Multimedia 2023** (*one Oral*).
-  - [2023-01] Two papers accepted to **ICLR 2023** (*one Spotlight*).
-  - [2023-01] One paper accepted to **Computers in Biology and Medicine**.
+  - [2024-12] Our paper, *"Title of PhD Dissertation"* has been accepted
 
 
 # Skills
