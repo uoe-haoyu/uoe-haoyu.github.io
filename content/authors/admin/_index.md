@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D., Institute for Imaging, Data and Communications
+role: Postdoctoral in Medical AI, Institute for Imaging, Data and Communications
 
 # Organizations/Affiliations to show in About widget
 organizations:
