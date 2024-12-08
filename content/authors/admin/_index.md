@@ -29,25 +29,26 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Electrical Impedance Tomography
+  - Medical Imaging
+  - Fault Diagnosis
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD, Institute for Imaging, Data and Communications
       institution: University of Edinburgh, Edinburgh, UK
-      year: 2020-Present
+      year: 2020.11-2024.12
     - course: MSc, Electrical Engineering and Automation
       institution: Harbin Institute of Technology, Harbin, China   
-      year: 2018–2020
+      year: 2018.09–2020.07
     - course: BEng, Exchange student, Armour College of Engineering
       institution: Illinois Institute of Technology, Chicago, USA 
-      year: 2018
+      year: 2018.01-2018.06
     - course: BEng., Electrical Engineering and Automation
       institution: North China Electric Power University, Baoding, China   
-      year: 2014–2018
+      year: 2014.09–2018.07
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
