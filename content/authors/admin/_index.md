@@ -27,28 +27,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-interests:
-  - Deep Learning
-  - Electrical Impedance Tomography
-  - Medical Imaging
-  - Fault Diagnosis
+# News widget
+news:
+  - [2024-12] Our paper, *"Title of PhD Dissertation"* has been accepted by **Nature Communications**.
+  - [2024-09] I was invited to serve as a reviewer for **ICLR 2025**.
+  - [2024-05] I was invited to serve as a reviewer for **ACM Multimedia 2024**.
+  - [2024-03] One paper accepted to **Computational and Structural Biotechnology Journal**.
+  - [2024-01] One paper accepted to **ICLR 2024**.
+  - [2023-07] One paper accepted to **British Journal of Cancer**.
+  - [2023-07] Two papers accepted to **ACM Multimedia 2023** (*one Oral*).
+  - [2023-01] Two papers accepted to **ICLR 2023** (*one Spotlight*).
+  - [2023-01] One paper accepted to **Computers in Biology and Medicine**.
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD, Institute for Imaging, Data and Communications
-      institution: University of Edinburgh, Edinburgh, UK
-      year: 2020.11-2024.12
-    - course: MSc, Electrical Engineering and Automation
-      institution: Harbin Institute of Technology, Harbin, China   
-      year: 2018.09–2020.07
-    - course: BEng, Exchange student, Armour College of Engineering
-      institution: Illinois Institute of Technology, Chicago, USA 
-      year: 2018.01-2018.06
-    - course: BEng., Electrical Engineering and Automation
-      institution: North China Electric Power University, Baoding, China   
-      year: 2014.09–2018.07
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
