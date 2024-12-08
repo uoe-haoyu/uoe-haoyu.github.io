@@ -1,5 +1,5 @@
 ---
-title: "Yu,H.*,Liu,H.,Liu,Z.,Wang,Z.and Jia,J.*, High-Resolution Conductivity Reconstruction by Electrical Impedance Tomography using Structure-Aware Hybrid-Fusion Learning. Computer methods and programs in biomedicine, 2024."
+title: "Yu,H.*,Liu,H.,Liu,Z.,Wang,Z.and Jia,J.*, High-Resolution Conductivity Reconstruction by Electrical Impedance Tomography using Structure-Aware Hybrid-Fusion Learning. Computer methods and programs in biomedicine, 2023."
 authors:
 - admin
 author_notes:
