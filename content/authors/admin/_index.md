@@ -29,7 +29,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # News widget
 news:
-  - [2024-12] Our paper, *"Title of PhD Dissertation"* has been accepted
+  - Our paper
 
 
 # Skills
