@@ -42,6 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    <!-- 
   - block: skills
     content:
       title: Skills
@@ -164,7 +165,7 @@ First Prize in Hebei Province for the "Challenge Cup" National College Student C
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: '2'->
   - block: portfolio
     id: projects
     content:
