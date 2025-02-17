@@ -43,42 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Team Leader 
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-10-01'
-          date_end: ''
-          description: |2-
-               A Critical Discourse Analysis of Enterprises’ Annual Reports,
-              Responsibilities include:
-
-              * Led a group of 5 to collect and compile a corpus composed of the annual reports of 100+ Chinese and American companies
-              * Analyzed the frequency of specific words, index lines, collocations, and naming strategies
-              * Explored linguistic characteristics and ideologies of corporate annual reports, as well as how they contribute to the construction of corporate identity
-        - title: Administrative Assistant
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2019-05-01'
-          date_end: '2019-07-31'
-          description: Human Resources Department of Harbin Institute of Technology
-    design:
-      columns: '2'
+ 
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
