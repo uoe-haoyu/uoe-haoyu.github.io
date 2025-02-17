@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D., Institute for Imaging, Data and Communications
+role: Postdoctoral Research Associate in Medical AI., Institute for Imaging, Data and Communications
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,15 +30,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medical Imaging
+  - Fault Diagnosis
+  - Rmote sensing
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD, Institute for Imaging, Data and Communications
       institution: University of Edinburgh, Edinburgh, UK
-      year: 2020-Present
+      year: 2020-2025
     - course: MSc, Electrical Engineering and Automation
       institution: Harbin Institute of Technology, Harbin, China   
       year: 2018–2020
@@ -123,5 +124,12 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hao Yu is a postdoctoral research associate at the University of Edinburgh. He received his Ph.D. in Engineering from the University of Edinburgh in 2025. During his Ph.D., he worked extensively on electrical impedance tomography (EIT) combined with deep learning for lung imaging and two-phase flow volume fraction measurement. Currently, he is exploring advanced artificial intelligence techniques for medical imaging applications and fault diagnosis.
+
+
+
+
+
+
+
 {style="text-align: justify;"}
