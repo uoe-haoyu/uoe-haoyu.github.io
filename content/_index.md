@@ -43,7 +43,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-      - block: collection
+ 
+ 
+  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -72,7 +74,7 @@ sections:
       columns: '2'
 
       flip_alt_rows: false
-    
+ 
   - block: collection
     id: featured
     content:
@@ -87,7 +89,7 @@ sections:
     
   - block: collection
     content:
-      title: Publications
+      title: Recent Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -99,11 +101,6 @@ sections:
     design:
       columns: '8'
       view: citation
- 
- 
-
- 
-
 #  - block: collection
 #    id: talks
 #    content:
