@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate in Medical AI., Institute for Imaging, Data and Communications
+role: Postdoctoral Research Associate in Medical AI, Institute for Imaging, Data and Communications
 
 # Organizations/Affiliations to show in About widget
 organizations:
