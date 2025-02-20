@@ -3,11 +3,11 @@ title: High-resolution conductivity reconstruction by electrical impedance tomog
 authors:
 - Yu, Hao, Haoyu Liu, Zhe Liu, Zeyu Wang, and Jiabin Jia.
 
-date: "2024-01-00T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.cmpb.2023.107861"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-00T00:00:00Z"
+publishDate: "2024-02-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
