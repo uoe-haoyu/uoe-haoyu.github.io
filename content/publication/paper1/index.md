@@ -26,7 +26,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/10887103
