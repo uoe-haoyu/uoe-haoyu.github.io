@@ -1,7 +1,8 @@
 ---
 title: High-resolution conductivity reconstruction by electrical impedance tomography using structure-aware hybrid-fusion learning
 authors:
-- admin, Haoyu Liu, Zhe Liu, Zeyu Wang, and Jiabin Jia.
+- admin
+- Haoyu Liu, Zhe Liu, Zeyu Wang, and Jiabin Jia.
 
 date: "2024-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.cmpb.2023.107861"
