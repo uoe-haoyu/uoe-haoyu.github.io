@@ -30,21 +30,13 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - Phd Life
+  - Hiking
 
-categories:
-  - Demo
-  - 教程
 ---
 
-```python
-import libr
-print('hello')
-```
 
 ## Overview
 
@@ -54,6 +46,7 @@ print('hello')
 
 [![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
 
+<!--
 ## Get Started
 
 - 👉 [**Create a new site**](https://hugoblox.com/templates/)
@@ -62,6 +55,8 @@ print('hello')
 - 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/HugoBlox/hugo-blox-builder/issues)
 - ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://hugoblox.com/updates/)
+-->
+
 
 ## Crowd-funded open-source software
 
