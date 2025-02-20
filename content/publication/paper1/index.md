@@ -26,7 +26,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/10887103
@@ -38,7 +38,7 @@ url_code: 'https://github.com/uoe-haoyu/1DCNN_Power_Converter'
 image:
   caption: ''
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
