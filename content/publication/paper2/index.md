@@ -1,61 +1,52 @@
 ---
-title: 'Yu, H., Zhang, Z. and Jia, J.*, Light-weight CNNs with Dynamic Convolution for Lung EIT. International Journal of Bioelectromagnetism. 2022.'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: High-resolution conductivity reconstruction by electrical impedance tomography using structure-aware hybrid-fusion learning."
 authors:
-  - admin
+- Yu, Hao, Haoyu Liu, Zhe Liu, Zeyu Wang, and Jiabin Jia.
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: "2024-01-00T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cmpb.2023.107861"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2024-01-00T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types:
+- "Article"
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: "Elsevier"
+publication_short: "CMPB"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:  Background
+Electrical impedance tomography (EIT) has gained considerable attention in the medical field for the diagnosis of lung-related diseases, owing to its non-invasive and real-time characteristics. However, due to the ill-posedness and underdetermined nature of the inverse problem in EIT, suboptimal reconstruction performance and reduced robustness against the measurement noise and modeling errors are common issues.
+Objectives
+This study aims to mine the deep feature information from measurement voltages, acquired from the EIT sensor, to reconstruct the high-resolution conductivity distribution and enhance the robustness against the measurement noise and modeling errors using the deep learning method.
+Methods
+A novel data-driven method named the structure-aware hybrid-fusion learning (SA-HFL) is proposed. SA-HFL is composed of three main components: a segmentation branch, a conductivity reconstruction branch, and a feature fusion module. These branches work in tandem to extract different feature information from the measurement voltage, which is then fused to reconstruct the conductivity distribution. The unique aspect of this network is its ability to utilize different features extracted from various branches to accomplish reconstruction objectives. To supervise the training of the network, we generated regular-shaped and lung-shaped EIT datasets through numerical calculations.
+Results
+The simulations and three experiments demonstrate that the proposed SA-HFL exhibits superior performance in qualitative and quantitative analyses, compared with five cutting-edge deep learning networks and the optical image-guided group sparsity (IGGS) method. The evaluation metrics, relative error (RE), mean structural similarity index (MSSIM), and peak signal-to-noise ratio (PSNR), are improved by implementing the SA-HFL method. For the regular-shaped dataset, the values are 0.119 (RE), 0.9882 (MSSIM), and 31.03 (PSNR). For the lung-shaped dataset, the values are 0.257 (RE), 0.9151 (MSSIM), and 18.67 (PSNR). Furthermore, the proposed network can be executed with appropriate parameters and efficient floating-point operations per second (FLOPs), concerning network complexity and inference speed.
+Conclusions
+The reconstruction results indicate that fusing feature information from different branches enhances the accuracy of conductivity reconstruction in the EIT inverse problem. Moreover, the study shows that fusing different modalities of information to reconstruct the EIT conductivity distribution may be a future development direction.
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [IEEE]
+tags:
+- Source Themes
+featured: false
 
-# Display this page in the Featured widget?
-featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0169260723005278
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ''
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -63,23 +54,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
