@@ -24,7 +24,7 @@ abstract:  Conventional long-horizon finite-control-set model predictive control
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:[IEEE]
+tags: [IEEE]
 - Source Themes
 featured: true
 
