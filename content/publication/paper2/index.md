@@ -1,5 +1,5 @@
 ---
-title: High-resolution conductivity reconstruction by electrical impedance tomography using structure-aware hybrid-fusion learning."
+title: High-resolution conductivity reconstruction by electrical impedance tomography using structure-aware hybrid-fusion learning
 authors:
 - Yu, Hao, Haoyu Liu, Zhe Liu, Zeyu Wang, and Jiabin Jia.
 
@@ -31,7 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0169260723005278
