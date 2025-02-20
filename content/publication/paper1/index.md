@@ -28,9 +28,7 @@ tags:
 - Source Themes
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
+
 url_pdf: https://ieeexplore.ieee.org/abstract/document/10887103
 url_code: 'https://github.com/uoe-haoyu/1DCNN_Power_Converter'
 
