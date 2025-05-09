@@ -12,11 +12,5 @@ Starting from April 2025, I will join the SMART Group as a one-year Research Ass
 ![png](Smart.png)
     
 
-## Organize your notebooks
-
-Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
-
-## Import the notebooks into your site
-
 
 
