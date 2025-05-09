@@ -23,7 +23,8 @@ abstract:  Conventional long-horizon finite-control-set model predictive control
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper proposes an FPGA-based compressed 1-D convolutional neural network for long-horizon FCS-MPC, significantly reducing online computation and hardware resource usage while maintaining control performance.
+
 
 tags:
 - Source Themes
