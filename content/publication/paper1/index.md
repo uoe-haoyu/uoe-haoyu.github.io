@@ -2,7 +2,7 @@
 title: "Long-Horizon FCS-MPC Trained 1-D Convolution Neural Networks for FPGA-Based Power-Electronic Converter Control With a Si/SiC Hybrid Converter Case Study."
 authors:
 - Ning Li
-- admin
+- admin*
 - Stephen Finney, and Paul D. Judge.
 
 date: "2025-02-14T00:00:00Z"
