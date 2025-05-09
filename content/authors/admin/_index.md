@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate in Medical AI, Institute for Imaging, Data and Communications
+role: Postdoctoral Research Associate in Medical Imaging, Institute for Imaging, Data and Communications
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.ed.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include medical imaging, AI-based control and monitoring for power electronics, and remote sensing.
 
 # Interests to show in About widget
 interests:
