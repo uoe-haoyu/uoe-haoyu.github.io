@@ -28,6 +28,7 @@ summary: This paper proposes an FPGA-based compressed 1-D convolutional neural n
 
 
 tags:
+- Source Themes
 featured: true
 
 
