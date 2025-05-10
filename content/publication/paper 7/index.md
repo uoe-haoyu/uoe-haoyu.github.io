@@ -1,10 +1,13 @@
 ---
-title: "Long-Horizon FCS-MPC Trained 1-D Convolution Neural Networks for FPGA-Based Power-Electronic Converter Control With a Si/SiC Hybrid Converter Case Study."
-authors:
-- Li, Ning, Hao Yu, Stephen Finney, and Paul D. Judge.
+title: V-pen: An acoustic-based fine-grained virtual pen input system using hand tracking
 
-date: "2025-02-14T00:00:00Z"
-doi: "10.1109/TIE.2025.3536555"
+authors:
+- Wei Han, Yinghao Li
+- Hao Yu
+- Jiabin Jia
+
+date: "2023-11-28T00:00:00Z"
+doi: "10.1109/TIM.2023.3335525"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-20T00:00:00Z"
@@ -16,8 +19,7 @@ publication_types:
 - "Article"
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE"
-publication_short: "TIE"
+publication: "IEEE Transactions on Instrumentation and Measurement"
 
 
 
@@ -26,11 +28,6 @@ publication_short: "TIE"
 tags:
 - Source Themes
 featured: false
-
-
-url_pdf: https://ieeexplore.ieee.org/abstract/document/10887103
-url_code: 'https://github.com/uoe-haoyu/1DCNN_Power_Converter'
-
 
 
 ---
