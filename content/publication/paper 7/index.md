@@ -1,5 +1,5 @@
 ---
-title: V-Pen: An Acoustic-Based Fine-Grained Virtual Pen Input System Using Hand Tracking
+title: V-Pen An Acoustic-Based Fine-Grained Virtual Pen Input System Using Hand Tracking
 
 
 
