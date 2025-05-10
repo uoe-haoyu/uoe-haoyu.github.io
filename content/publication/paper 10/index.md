@@ -6,7 +6,7 @@ authors:
 - admin
 
 date: "https://doi.org/10.1002/ima.70089"
-doi: "https://doi.org/10.1016/j.enganabound.2025.106278"
+doi: "https://doi.org/10.1002/ima.70089"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-05-10T00:00:00Z"
