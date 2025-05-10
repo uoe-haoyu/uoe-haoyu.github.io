@@ -7,7 +7,7 @@ authors:
 - Xingchen Wan, Zhongxu Dong, Zhixi Zhang, Jiabin Jia.
 
 date: "2022-10-28T00:00:00Z"
-doi: "https://ieeexplore.ieee.org/abstract/document/9931742"
+doi: "10.1109/TIM.2022.3217862"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-05-10T00:00:00Z"
