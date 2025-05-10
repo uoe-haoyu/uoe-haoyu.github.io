@@ -6,7 +6,7 @@ authors:
 - Zhixi Zhang, Yang Gao, Jiabin Jia.
 
 date: "2022-05-02T00:00:00Z"
-doi: "https://ieeexplore.ieee.org/abstract/document/9766236"
+doi: "10.1109/TIM.2022.3169557"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-02-01T00:00:00Z"
