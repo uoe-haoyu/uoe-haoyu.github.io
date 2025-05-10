@@ -18,6 +18,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: "Flow Measurement and Instrumentation"
+publication_short: "TIE"
 
 
 
