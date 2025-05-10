@@ -18,7 +18,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: "Flow Measurement and Instrumentation"
-publication_short: "TIE"
+publication_short: "FMI"
 
 
 
@@ -29,8 +29,7 @@ tags:
 featured: false
 
 
-url_pdf: [https://ieeexplore.ieee.org/abstract/document/10887103](https://www.sciencedirect.com/science/article/pii/S0955598622001790)
-
+url_pdf: https://doi.org/10.1016/j.flowmeasinst.2022.102304
 
 
 ---
