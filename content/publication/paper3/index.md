@@ -1,7 +1,7 @@
 ---
 title: "Extracting reference voltages from measurement voltages for oil-water two-phase flow measurement of electrical impedance tomography"
 authors:
-- admin,
+- admin
 - Xingchen Wan, and Jiabin Jia.
 
 date: "2023-03-01T00:00:00Z"
