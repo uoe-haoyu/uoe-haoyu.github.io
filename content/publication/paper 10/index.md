@@ -1,13 +1,15 @@
 ---
-title: "Long-Horizon FCS-MPC Trained 1-D Convolution Neural Networks for FPGA-Based Power-Electronic Converter Control With a Si/SiC Hybrid Converter Case Study."
-authors:
-- Li, Ning, Hao Yu, Stephen Finney, and Paul D. Judge.
+title: A Novel Generative Adversarial Network Based on Conditional VAE for EIT Reconstruction of Lung Diseases
 
-date: "2025-02-14T00:00:00Z"
-doi: "10.1109/TIE.2025.3536555"
+authors:
+- Yueyue Xiao, Jie Yu, Chunxiao Chen, Liang Wang, Songpei Hu, Bokai Chen
+- admin
+
+date: "https://doi.org/10.1002/ima.70089"
+doi: "https://doi.org/10.1016/j.enganabound.2025.106278"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-20T00:00:00Z"
+publishDate: "2025-05-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,8 +18,7 @@ publication_types:
 - "Article"
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE"
-publication_short: "TIE"
+publication: "International Journal of Imaging Systems and Technology"
 
 
 
@@ -26,10 +27,6 @@ publication_short: "TIE"
 tags:
 - Source Themes
 featured: false
-
-
-url_pdf: https://ieeexplore.ieee.org/abstract/document/10887103
-url_code: 'https://github.com/uoe-haoyu/1DCNN_Power_Converter'
 
 
 
