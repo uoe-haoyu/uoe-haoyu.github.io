@@ -6,7 +6,7 @@ authors:
 - admin
 
 date: "2025-04-18T00:00:00Z"
-doi: "https://doi.org/10.1002/ima.70089"
+url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/ima.70089
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-05-10T00:00:00Z"
