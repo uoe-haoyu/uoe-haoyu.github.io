@@ -3,10 +3,10 @@ title: Torque performance improvement for slotted limited-angle torque motors by
 
 authors:
 - admin
--  Guodong Yu, Yongxiang Xu, Jibin Zou.
+- Guodong Yu, Yongxiang Xu, Jibin Zou.
 
 date: "2020-06-30T00:00:00Z"
-doi: "https://doi.org/10.1016/j.flowmeasinst.2022.102304"
+doi: "https://ieeexplore.ieee.org/abstract/document/9130046"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-05-10T00:00:00Z"
