@@ -3,7 +3,7 @@ title: V-pen: An acoustic-based fine-grained virtual pen input system using hand
 
 authors:
 - Wei Han, Yinghao Li
-- Hao Yu
+- admin
 - Jiabin Jia
 
 date: "2023-11-28T00:00:00Z"
