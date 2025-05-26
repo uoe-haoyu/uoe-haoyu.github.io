@@ -16,7 +16,7 @@ publication_types:
 - "Article"
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS"
+publication: "IEEE Transactions on Industrial Electronics"
 
 
 
