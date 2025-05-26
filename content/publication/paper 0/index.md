@@ -1,14 +1,13 @@
 ---
-title: High-resolution conductivity reconstruction by electrical impedance tomography using structure-aware hybrid-fusion learning
+title: Time-Frequency Domain Lightweight Dual-Branch MSCFormer for PMSM ITSC Fault Diagnosis
 authors:
 - admin
-- Haoyu Liu, Zhe Liu, Zeyu Wang, and Jiabin Jia.
+- Shaobin Li, Yongxiang Xu, Zihao Zhang, Haoyi Mu, and Wei Han.
 
-date: "2024-01-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.cmpb.2023.107861"
+date: "2025-05-27T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-01T00:00:00Z"
+publishDate: "2025-02-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,9 +16,10 @@ publication_types:
 - "Article"
 
 # Publication name and optional abbreviated publication name.
-publication: "Computer methods and programs in biomedicine"
+publication: "IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS"
 
-abstract:  Electrical impedance tomography (EIT) has gained considerable attention in the medical field for the diagnosis of lung-related diseases, owing to its non-invasive and real-time characteristics. However, due to the ill-posedness and underdetermined nature of the inverse problem in EIT, suboptimal reconstruction performance and reduced robustness against the measurement noise and modeling errors are common issues. This study aims to mine the deep feature information from measurement voltages, acquired from the EIT sensor, to reconstruct the high-resolution conductivity distribution and enhance the robustness against the measurement noise and modeling errors using the deep learning method. A novel data-driven method named the structure-aware hybrid-fusion learning (SA-HFL) is proposed. SA-HFL is composed of three main components, a segmentation branch, a conductivity reconstruction branch, and a feature fusion module. These branches work in tandem to extract different feature information from the measurement voltage, which is then fused to reconstruct the conductivity distribution. The unique aspect of this network is its ability to utilize different features extracted from various branches to accomplish reconstruction objectives. To supervise the training of the network, we generated regular-shaped and lung-shaped EIT datasets through numerical calculations. The simulations and three experiments demonstrate that the proposed SA-HFL exhibits superior performance in qualitative and quantitative analyses, compared with five cutting-edge deep learning networks and the optical image-guided group sparsity (IGGS) method. The evaluation metrics, relative error (RE), mean structural similarity index (MSSIM), and peak signal-to-noise ratio (PSNR), are improved by implementing the SA-HFL method. For the regular-shaped dataset, the values are 0.119 (RE), 0.9882 (MSSIM), and 31.03 (PSNR). For the lung-shaped dataset, the values are 0.257 (RE), 0.9151 (MSSIM), and 18.67 (PSNR). Furthermore, the proposed network can be executed with appropriate parameters and efficient floating-point operations per second (FLOPs), concerning network complexity and inference speed. The reconstruction results indicate that fusing feature information from different branches enhances the accuracy of conductivity reconstruction in the EIT inverse problem. Moreover, the study shows that fusing different modalities of information to reconstruct the EIT conductivity distribution may be a future development direction.
+abstract:  This paper presents a novel method for diagnosing interturn short circuits (ITSC) in permanent magnet synchronous motors (PMSMs) utilizing a transformer-based hybrid architecture. The influence of ITSC on dq-axis currents at different fault severity levels is first analyzed mathematically, providing a foundation for extracting distinctive spectral features. Building on this analysis, a Motor Short-Circuit Transformer (MSCFormer) is proposed, employing a dual-branch framework to effectively integrate
+and exploit faulty features from both the time and frequency domains. This dual-domain approach enhances diagnostic accuracy and robustness by utilizing the complementary perspective provided by frequency-domain spectral features, such as the 2nd, 4th and other harmonics. Additionally, the network incorporates an adaptive feature-level fusion strategy, lightweight optimization, and the multi-head attention mechanism to mitigate noise interference and improve generalization. Comprehensive experimental evaluations demonstrate the effectiveness and superiority of the proposed method in terms of accuracy and network complexity, achieving 99.79% overall accuracy (OA) and 99.79% F1-score, with only 0.156 million parameters and 1.77 million floating point operations (FLOPs). Code is available at https:// github.com/ uoe-haoyu/ PMSM Fault Diagnosis DL.
 
 
 
@@ -27,7 +27,6 @@ abstract:  Electrical impedance tomography (EIT) has gained considerable attenti
 
 
 # Summary. An optional shortened abstract.
-summary: This study proposes a novel deep learning method, SA-HFL, that fuses multi-branch features to improve the accuracy and robustness of EIT conductivity reconstruction against noise and modeling errors.
 
 
 tags:
@@ -35,7 +34,6 @@ tags:
 featured: true
 
 
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0169260723005278
 
 
 # Featured image
