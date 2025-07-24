@@ -270,6 +270,7 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 -  江汉大学高层次人才科研项目：数据与机理融合驱动的燃煤电站脱硝催化剂寿命预测模型研究，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2021.1-2023.12，结题；
 
 # 🎖 Honors and Awards
+- *2025* <span style="font-weight:bold; color:#E34234;">**省级银奖**</span>, 2025年中国国际大学生创新大赛高教主赛道《智控爆险——国际先进型民用爆炸物品生产全流程安全智控技术》
 - *2025* <span style="font-weight:bold; color:#E34234;">**M Prize**</span>, Mathematical Contest in Modeling for American College Students(MCM/ICM)
 - *2024* <span style="font-weight:bold; color:#E34234;">**President's Scholarship of Jianghan University**</span> (Only 10 people in the whole school) 
 - *2024* <span style="font-weight:bold; color:#E34234;">**M Prize**</span>, Mathematical Contest in Modeling for American College Students(MCM/ICM)
