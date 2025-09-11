@@ -261,6 +261,7 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 - Power Plant SCR Denitration System High-Capacity Sample Mining and Catalyst Life Prediction Software V1.0, Cong Yu, Ziliang Wang, **Yukun Zhu**, Tihua Zhang, Shuo Chen.(<span style="font-weight:bold; color:#E34234;">*Software*</span>, **2022**)
 
 # 🎖 Research Projects
+- 湖北省科技计划项目（基础研究类平台专项）：烟气脱硫碳催化氧化机理及关键技术研究, <span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2025.08-2027.08，在研；
 - 企业项目（湖北中烟工业有限责任公司武汉卷烟厂）：基于二维码的卷烟质量追溯能力提升的研究与应用, <span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2024.08-2025.10，在研
 - 东南大学外委项目：循环流化床锅炉燃烧过程数值模拟平台开发及试验测试分析，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2024.08-2025.12，在研
 - 企业项目（湖北凯龙化工集团股份有限公司）：工业互联网+民用爆炸物品生产及仓储智能化安全监控系统，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2023.06-2026.06，结题<span style="font-weight:bold; color:#E34234;">*(工信部鉴定, 国际领先水平)*</span>
