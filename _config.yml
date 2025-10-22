@@ -31,17 +31,17 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "♊️ Yukun Zhu ♊️"
-  avatar           : "images/self-zyk.png"
+  name             : "♊️ Hao Yu ♊️"
+  avatar           : "images/self-haoyu.jpg"
   bio              : "University of Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=h5K5LXEAAAAJ"
-  email            : "zyk7915@163.com"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-9891-730X"
+  googlescholar    : "https://scholar.google.com/citations?user=CK6--4cAAAAJ&hl=en"
+  email            : "hyu4@edu.ac.uk"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6237-0179"
   researchgate     : "https://www.researchgate.net/profile/Yukun-Zhu-6?ev=hdr_xprf"
-  lab_name         : "流程工业智能制造实验室"
+  lab_name         : "Smart Group"
   lab_url          : "https://www.labxing.com/lab/2199/home"
   uri              :
   bitbucket        :
