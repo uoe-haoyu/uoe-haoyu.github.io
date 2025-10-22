@@ -40,9 +40,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=CK6--4cAAAAJ&hl=en"
   email            : "hyu4@edu.ac.uk"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6237-0179"
-  researchgate     : "https://www.researchgate.net/profile/Yukun-Zhu-6?ev=hdr_xprf"
+  researchgate     : # "https://www.researchgate.net/profile/Yukun-Zhu-6?ev=hdr_xprf"
   lab_name         : "Smart Group"
-  lab_url          : "https://www.labxing.com/lab/2199/home"
+  lab_url          : # "https://www.labxing.com/lab/2199/home"
   uri              :
   bitbucket        :
   codepen          :
@@ -50,7 +50,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YukunZhu-ED"# e.g., "github username"
+  github           : # "YukunZhu-ED"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
