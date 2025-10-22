@@ -252,7 +252,7 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 - [基于熵权-TOPSIS-DE模型对生产类原材料采购问题的研究](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TL9t8tzu88drtWW781FCijuNN7TbBbry4XcN-FGXrfDoSjCEMp0pv0xFL8aIqyUy7EeCzClaF_cmG8kVTnbfwtF9fulQ2J4c8Jo6qnzHfQH0nBbk9VFhV5gflTnPJJGNtlcPUfVFRdHIH6WzuueLMML-jpDBk6xD4ojzkhJk5lnlQ==&uniplatform=NZKPT&language=CHS), **朱宇坤**, 黎恒, 梁怡恬, 熊昕, <span style="font-weight:bold; color:#E34234;">*江汉大学学报(自然科学版)*</span>, **2023**
 
 - [基于大容量样本挖掘及贝叶斯堆栈泛化集成算法的电站锅炉NOx稳态建模](http://kns.cnki.net/kcms2/article/abstractv=laPQaQ7a6TKeapZz_FqlIie1OfkwCODwsHp_8Z_qVju3L2H0BrVvTznO7XZeWTeqwQyiEGnfqSxqO1nzgV5GxmWF1NVs7_GJVshWzphA-XXiyEg5FuiKpMRkxBD6xb7FSsJXv53FE5ZhfFUVvviYnLczvAimFvesEyS8vjxIWXdcDtHnhDYQ6g==&uniplatform=NZKPT&language=CHS), **朱宇坤**, 喻聪, 张梯华, 刘红娇, 司风琪, <span style="font-weight:bold; color:#E34234;">*热力发电，中国T1核心期刊*</span>, **2022**
-
+<!-- 
 ## 🧑‍🔬 Patents and Softwares
 - [A method for online diagnosis of combustion performance in power plant boilers considering mode migration and subspace prior knowledge](https://patents.google.com/patent/CN115495976A/zh?oq=CN115495976A),Cong Yu, **Yukun Zhu**, Shuo Chen, Tihua Zhang.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115495976A*</span>, **2022**)
 
@@ -284,11 +284,14 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 - *2022* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The First "Dingding Cup" College Student Big Data Challenge (The first of 2439 teams)
 - *2022* <span style="font-weight:bold; color:#E34234;">**Second Prize**</span>, The 12th International Mathematical Contest in Modeling for University Students in the Asia-Pacific Region
 - *2022* <span style="font-weight:bold; color:#E34234;">**Second Prize**</span>, The 3rd National Undergraduate Algorithm Design and Programming Challenge (Top 10 percent)
-- *2021* <span style="font-weight:bold; color:#E34234;">**Second Prize**</span>, The 13th National Undergraduate Mathematics Competition (Top 10 percent) 
+- *2021* <span style="font-weight:bold; color:#E34234;">**Second Prize**</span>, The 13th National Undergraduate Mathematics Competition (Top 10 percent)  -->
 
 # 📖 Educations
-- *2025.04 - 2025 (now)*, MScR of Digital Conmmunications, University of Edinburgh
-- *2020.09 - 2024.06*, Bachelor of Process Equipment & Control Engineering, Jianghan University
+- *2020.11 - 2025.03*, Ph.D. in Institute for Imaging, Data and Communications, University of Edinburgh, UK
+- *2018.09 - 2020.07*, MSc in Electrical Engineering, Harbin Institute of Technology, China
+- *2018.01 - 2018.06*, BEng (Exchange Student), Armour College of Engineering, Illinois Institute of Technology, USA
+- *2014.09 - 2018.07*, BEng in Electrical Engineering and Automation, North China Electric Power University, China
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
