@@ -53,17 +53,16 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.10*: &nbsp;👏👏 Received the funding from <b style="color:#000000;"> the EPSRC IAA Innovation Competition</b> as a <span style="font-weight:bold; color:#E34234;">Principal Investigator (PI)</span>.
+- *2025.10*: &nbsp;👏👏 Received the funding from <b style="color:#000000;">the EPSRC IAA Innovation Competition</b> as a <span style="font-weight:bold; color:#0073e6;">Principal Investigator (PI)</span>.
 
-- *2025.10*: &nbsp;🎉🎉 Awarded the <b style="color:#000000;">Danish DSSA Visit Grant</b> to conduct a short-term research visit at the <span style="font-weight:bold; color:#E34234;">Medical Robotics Lab, University of Southern Denmark</span>.
+- *2025.10*: &nbsp;🎉🎉 Awarded the <b style="color:#000000;">Danish DSSA Visit Grant</b> to conduct a short-term research visit at the <span style="font-weight:bold; color:#0073e6;">Medical Robotics Lab, University of Southern Denmark</span>.
 
+- *2025.09*: &nbsp;🎯 Will serve as a <b style="color:#000000;">Session Chair</b> for the <span style="font-weight:bold; color:#0073e6;">Special Session "Medical Tomography in the AI Era: From Smart Measurement to Clinical Translation"</span> at <b>IEEE International Instrumentation and Measurement Technology Conference 2026</b>. See you in France 🇫🇷!
 
-- *2025.09*: &nbsp;🎯 Will serve as a <b style="color:#000000;">Session Chair</b> for the <span style="font-weight:bold; color:#E34234;">Special Session "Medical Tomography in the AI Era: From Smart Measurement to Clinical Translation"</span> at <b>IEEE International Instrumentation and Measurement Technology Conference 2026</b>. See you in France 🇫🇷!
+- *2025.04*: &nbsp;👨‍🔬 Joined the <span style="font-weight:bold; color:#0073e6;">SMART Group, University of Edinburgh</span> as a <b style="color:#000000;">Research Associate</b>.
 
+- *2025.04*: &nbsp;🎓 Successfully obtained the <b style="color:#000000;">Ph.D. degree</b> from the <span style="font-weight:bold; color:#0073e6;">University of Edinburgh</span>.
 
-- *2025.04*: &nbsp;👨‍🔬 Joined the <span style="font-weight:bold; color:#E34234;">SMART Group, University of Edinburgh</span> as a <b style="color:#000000;">Research Associate</b>.
-
-- *2025.04*: &nbsp;🎓 Successfully obtained the <b style="color:#000000;">Ph.D. degree</b> from the <span style="font-weight:bold; color:#E34234;">University of Edinburgh</span>.
 
 
 
