@@ -144,17 +144,18 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<spa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy 2024</div><img src='images/P1.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement 2025</div><img src='images/P8.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
-  <a href="https://doi.org/10.1016/j.energy.2024.130432" target="_blank" rel="noopener">
-    Mechanism-enhanced data-driven method for the joint optimization of boiler combustion and selective catalytic reduction systems considering gas temperature deviations
+  <a href="https://www.sciencedirect.com/science/article/pii/S0263224125013454" target="_blank" rel="noopener">
+    Feasibility analysis of EIT-guided lung tumor tracking with prior information for robotic arm-assisted radiotherapy
+
   </a>
 </span>
-
-**Yukun Zhu**, Cong Yu📧, Wei Jin📧, Ling Shi, Bo Chen, Pei Xu
-{% assign doi = "10.1016/j.energy.2024.130432" %}
-[**Project**](https://doi.org/10.1016/j.energy.2024.130432)｜
+**Hao Yu**, Hao Yu, Zhongxu Dong, Wei Han, Yang Wu, Chunpeng Wang, Zhe Liu, Jiabin Jia
+{% assign doi = "10.1016/j.measurement.2025.117986" %}
+[**Project**](https://doi.org/10.1016/j.measurement.2025.117986)｜
 <span class="project-with-badge">
   <a class="gs-citation-badge disabled"
      href="https://scholar.google.com/scholar?cites={{ doi }}"
@@ -169,12 +170,7 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<spa
     </span>
   </a>
 </span>｜
-<span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9.4)</span>
-
-- A novel framework was proposed for the joint optimization of boiler subsystems.
-- Mechanism relationships were integrated into the data-driven characteristic models.
-- Effect of incorporating prior knowledge on modeling and optimization was validated.
-- A trade-off between eliminating gas temperature deviation and reducing NOx was found.
+<span style="font-weight:bold; color:#E34234;">*Measurement*</span>
 
 </div>
 </div>
