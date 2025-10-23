@@ -39,9 +39,9 @@ and co-supervised by <a href="https://homepage.hit.edu.cn/yuguodong" target="_bl
 `<p style="line-height:1.6;">
 The central goal of my research is to develop reliable and efficient intelligent sensing systems that bridge physical processes and data-driven intelligence. 
 This involves exploring a range of cutting-edge topics such as:
-</p>
+</p>`
 
-<ul style="line-height:1.6; margin-top:-5px;">
+`<ul style="line-height:1.6; margin-top:-5px;">
   <li><strong>Intelligent Sensing:</strong> Industrial Processes, Equipment, and Healthcare</li>
   <li><strong>Trustworthy AI:</strong> Reliable and Interpretable Deep Learning</li>
   <li><strong>Large Language Models:</strong> Industrial Knowledge Modeling and Process Analysis</li>
