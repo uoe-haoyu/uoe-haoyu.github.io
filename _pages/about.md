@@ -115,14 +115,14 @@ Feel free to reach out via email if you are interested in potential research col
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2025</div><img src='images/P4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2025</div><img src='images/P7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
   <a href="https://ieeexplore.ieee.org/abstract/document/11129250" target="_blank" rel="noopener">
     Interpretable Harmonic-Aware Dual-Branch Neural Network for Trustworthy Diagnosis of OCFs in DTP-PMSMs with Enhanced Disturbance Robustness
   </a>
 </span>
-Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<sup>*</sup>
+Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<span style="font-size: 1.4em; vertical-align: super;">*</span>
 {% assign doi = "10.1109/TPEL.2025.3599747" %}
 [**Project**](https://doi.org/10.1109/TPEL.2025.3599747)｜
 <span class="project-with-badge">
