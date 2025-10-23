@@ -25,12 +25,11 @@ redirect_from:
 I am a Postdoctoral Research Associate in the School of Engineering in the 
 <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications (IDCOM)</a> 
 at the University of Edinburgh, supervised by 
-<a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a>. 
-
-My current research focuses on intelligent sensing, trustworthy deep learning, and smart measurement for industrial and healthcare applications. 
-Previously, I completed my B.Eng. in Intelligent Manufacturing at 
-<a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University</a>, 
-advised by <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Dr. Cong Yu</a>.
+<a href="https://eng.ed.ac.uk/about/people/dr-yunjie-yang" target="_blank" rel="noopener">Dr. Yunjie Yang</a>. 
+Previously, I completed my PhD in Intelligent Manufacturing at 
+<a href="https://www.ed.ac.uk/" target="_blank" rel="noopener">University of Edinburgh</a>, 
+advised by <a href="https://eng.ed.ac.uk/about/people/dr-jiabin-jia" target="_blank" rel="noopener">Dr. Jiabin Jia</a> 
+(co-advised by <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a>).
 </p>
 
 <p style="line-height:1.6;">
