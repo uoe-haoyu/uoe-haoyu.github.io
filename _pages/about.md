@@ -84,16 +84,16 @@ Feel free to reach out via email if you are interested in potential research col
 
 # 📝 Publications 
 ## 📄 Papers and Conferences
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FRL 2025</div><img src='images/P5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2025</div><img src='images/P5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
   <a href="https://doi.org/10.1016/j.frl.2025.107196" target="_blank" rel="noopener">
-    Does multi-scale GARCH information enhance volatility prediction?
+    Time-Frequency Domain Lightweight Dual-Branch MSCFormer for PMSM ITSC Fault Diagnosis
   </a>
 </span>
-Rentian Yu, Haotian Xiao, **Yukun Zhu**, Gongqiu Zhang📧
-{% assign doi = "10.1016/j.frl.2025.107196" %}
-[**Project**](https://doi.org/10.1016/j.frl.2025.107196)｜
+**Hao Yu**, Shaobin Li, Yongxiang Xu, Zihao Zhang, Haoyi Mu, Wei Han
+{% assign doi = "10.1109/TIE.2025.3579108" %}
+[**Project**](https://doi.org/10.1109/TIE.2025.3579108)｜
 <span class="project-with-badge">
   <a class="gs-citation-badge disabled"
      href="https://scholar.google.com/scholar?cites={{ doi }}"
@@ -108,11 +108,9 @@ Rentian Yu, Haotian Xiao, **Yukun Zhu**, Gongqiu Zhang📧
     </span>
   </a>
 </span>｜
-<span style="font-weight:bold; color:#E34234;">*Finance Research Letters* (Q1,IF=7.4)</span>
+<span style="font-weight:bold; color:#E34234;">*IEEE Transaction on Industrical Electronics*</span>
 
-- We integrate GARCH information with a multi-scale network for volatility prediction.
-- The GENSHIN outperforms other deep learning models for Chinese volatility indices.
-- The results highlight the multi-scale information in improving volatility prediction.
+
 
 </div>
 </div>
