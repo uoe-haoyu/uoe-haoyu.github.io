@@ -58,6 +58,18 @@ redirect_from:
 - *2025.10*: &nbsp;🎉🎉 Awarded the <b style="color:#000000;">Danish DSSA Visit Grant</b> to conduct a short-term research visit at the <span style="font-weight:bold; color:#E34234;">Medical Robotics Lab, University of Southern Denmark</span>.
 
 
+- *2025.09*: &nbsp;🎉🎉 Awarded the <b style="color:#000000;">Danish DSSA Visit Grant</b> to conduct a short-term research visit at the <span style="font-weight:bold; color:#E34234;">Medical Robotics Lab, University of Southern Denmark</span>.
+
+
+
+
+- *2025.04*: &nbsp;👨‍🔬 Joined the <span style="font-weight:bold; color:#E34234;">SMART Group, University of Edinburgh</span> as a <b style="color:#000000;">Research Associate</b>.
+
+- *2025.04*: &nbsp;🎓 Successfully obtained the <b style="color:#000000;">Ph.D. degree</b> from the <span style="font-weight:bold; color:#E34234;">University of Edinburgh</span>.
+
+
+
+
 
 
 - *2024.12*: &nbsp;🎉🎉与湖北凯龙化工集团股份有限公司合作开发的<b style="color: #000000;">工业互联网+民用爆炸物品生产及仓储智能化安全监控系统</b>被中国工信部鉴定为<span style="font-weight:bold; color:#E34234;">国际先进水平</span>.
