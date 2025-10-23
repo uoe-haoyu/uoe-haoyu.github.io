@@ -6,26 +6,17 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hao Yu1"
+title                    : "Hao Yu"
 description: |
   <p class="site-desc">
     Research Associate in the institute for Imaging, Data and Communications.
   </p>
 
   <p class="site-desc"><strong>Research interests:</strong></p>
-  <ul class="site-desc-list"
-      style="max-width:280px; word-break:break-word; white-space:normal; overflow-wrap:anywhere; text-align:justify; padding-left:18px; margin:0;">
-    <li style="margin-bottom:6px; line-height:1.5;">
-      Intelligent Sensing for <br> Industrial Processes, <br> Equipment, and Healthcare
-    </li>
-    <li style="margin-bottom:6px; line-height:1.5;">
-      Large Language Models and <br> Trustworthy Deep Learning
-    </li>
-    <li style="margin-bottom:6px; line-height:1.5;">
-      High-sensitivity and <br> Intelligent Electronic Skin
-    </li>
-  </ul>
-
+  <ul class="site-desc-list">
+    <li>Intelligent Sensing for <br>  Industrial Processes, <br> Equipment, and Healthcare</li>
+    <li>Large Language Models and <br> Trustworthy Deep Learning</li>
+    <li>High-sensitivity and <br> Intelligent Electronic Skin</li>
 
 repository   :: "/Users/edzyk/Documents/GitHub/YukunZhu-ED.github.io"
 google_scholar_stats_use_cdn : true
