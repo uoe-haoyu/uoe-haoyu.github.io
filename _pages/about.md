@@ -26,13 +26,17 @@ I am a Postdoctoral Research Associate in the School of Engineering in the
 <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications (IDCOM)</a> 
 at the University of Edinburgh, supervised by 
 <a href="https://eng.ed.ac.uk/about/people/dr-yunjie-yang" target="_blank" rel="noopener">Dr. Yunjie Yang</a>. 
-Previously, I completed my PhD in Intelligent Manufacturing at 
+Previously, I completed my PhD at 
 <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener">University of Edinburgh</a>, 
 advised by <a href="https://eng.ed.ac.uk/about/people/dr-jiabin-jia" target="_blank" rel="noopener">Dr. Jiabin Jia</a> 
 (co-advised by <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a>).
+Prior to that, I obtained my Master's degree from 
+<a href="http://en.hit.edu.cn/" target="_blank" rel="noopener">Harbin Institute of Technology</a>, 
+supervised by <a href="https://homepage.hit.edu.cn/zoujibin" target="_blank" rel="noopener">Prof. Jibin Zou</a> 
+and co-supervised by <a href="https://homepage.hit.edu.cn/yuguodong" target="_blank" rel="noopener">Prof. Guodong Yu</a>.
 </p>
 
-<p style="line-height:1.6;">
+`<p style="line-height:1.6;">
 The central goal of my research is to develop reliable and efficient intelligent sensing systems that bridge physical processes and data-driven intelligence. 
 This involves exploring a range of cutting-edge topics such as:
 </p>
@@ -43,7 +47,7 @@ This involves exploring a range of cutting-edge topics such as:
   <li><strong>Large Language Models:</strong> Industrial Knowledge Modeling and Process Analysis</li>
   <li><strong>Smart Measurement:</strong> Data-Driven Metrology and Sensor Fusion</li>
   <li><strong>Human-Machine Interaction:</strong> Perception, Decision, and Control</li>
-</ul>
+</ul>`
 
 <p style="line-height:1.6;">
 📢 I am seeking highly self-motivated PhD, Master and Bachelor students or collaborators interested in intelligent sensing, trustworthy AI, and LLMs.  
