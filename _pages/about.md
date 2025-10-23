@@ -36,18 +36,18 @@ supervised by <a href="https://homepage.hit.edu.cn/zoujibin" target="_blank" rel
 and co-supervised by <a href="https://homepage.hit.edu.cn/yuguodong" target="_blank" rel="noopener">Prof. Guodong Yu</a>.
 </p>
 
-`<p style="line-height:1.6;">
+<!-- <p style="line-height:1.6;">
 The central goal of my research is to develop reliable and efficient intelligent sensing systems that bridge physical processes and data-driven intelligence. 
 This involves exploring a range of cutting-edge topics such as:
-</p>`
+</p>
 
-`<ul style="line-height:1.6; margin-top:-5px;">
+<ul style="line-height:1.6; margin-top:-5px;">
   <li><strong>Intelligent Sensing:</strong> Industrial Processes, Equipment, and Healthcare</li>
   <li><strong>Trustworthy AI:</strong> Reliable and Interpretable Deep Learning</li>
   <li><strong>Large Language Models:</strong> Industrial Knowledge Modeling and Process Analysis</li>
   <li><strong>Smart Measurement:</strong> Data-Driven Metrology and Sensor Fusion</li>
   <li><strong>Human-Machine Interaction:</strong> Perception, Decision, and Control</li>
-</ul>`
+</ul> -->
 
 <p style="line-height:1.6;">
 📢 I am seeking highly self-motivated PhD, Master and Bachelor students or collaborators interested in intelligent sensing, trustworthy AI, and LLMs.  
