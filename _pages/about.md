@@ -47,7 +47,7 @@ This involves exploring a range of cutting-edge topics such as:
 </ul>
 
 <p style="line-height:1.6;">
-📢 I am seeking highly motivated students or collaborators interested in intelligent sensing, trustworthy AI, and industrial applications.  
+📢 I am seeking highly self-motivated PhD, Master and Bachelor students or collaborators interested in intelligent sensing, trustworthy AI, and LLMs.  
 Feel free to reach out via email if you are interested in potential research collaborations.
 </p>
 
