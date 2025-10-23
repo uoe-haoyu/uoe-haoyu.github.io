@@ -60,6 +60,7 @@ Feel free to reach out via email if you are interested in potential research col
 
 - *2025.10*: &nbsp;🎉🎉 Awarded the Danish DSSA Visit Grant to conduct a short-term research visit at the Medical Robotics Lab, University of Southern Denmark.
 
+- *2025.09*: &nbsp;🎯 Will serve as a Session Chair for the Special Session "Medical Tomography in the AI Era: From Smart Measurement to Clinical Translation" at IEEE International Instrumentation and Measurement Technology Conference 2026. See you in France 🇫🇷!
 
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">International Journal of Applied Earth Observation and Geoinformation</span>.
 
@@ -67,11 +68,6 @@ Feel free to reach out via email if you are interested in potential research col
 
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Transactions on Industrial Electronics</span>.
 
-
-
-
-
-- *2025.09*: &nbsp;🎯 Will serve as a Session Chair for the Special Session "Medical Tomography in the AI Era: From Smart Measurement to Clinical Translation" at IEEE International Instrumentation and Measurement Technology Conference 2026. See you in France 🇫🇷!
 
 - *2025.04*: &nbsp;👨‍🔬 Joined the SMART Group, University of Edinburgh as a Research Associate.
 
