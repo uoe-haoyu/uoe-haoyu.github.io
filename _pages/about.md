@@ -230,9 +230,11 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<spa
 </div>
 </div>
 
-- [A novel VMD‐LassoNet‐iTransformer framework with enhanced feature fusion for dynamic NOx forecasting in flexible utility boilers](https://onlinelibrary.wiley.com/doi/10.1002/cjce.70117), Lai Wei, Cong Yu,**Yukun Zhu**, <span style="font-weight:bold; color:#E34234;">*The Canadian journal of chemical engineering (Q2, IF = 2.5)*</span>, **2025**
 
-- [Long-Horizon FCS-MPC Trained 1-D Convolution Neural Networks for FPGA-Based Power-Electronic Converter Control With a Si/SiC Hybrid Converter Case Study](https://doi.org/10.1109/TIE.2024.3382352), Ning Li, **Hao Yu***, Stephen Finney, Paul D. Judge, <span style="font-weight:bold; color:#E34234;">*IEEE Transactions on Industrial Electronics*</span>, **2025**
+- [High-Resolution Conductivity Reconstruction by Electrical Impedance Tomography using Structure-Aware Hybrid-Fusion Learning](https://doi.org/10.1016/j.cmpb.2023.107861), **Hao Yu***, Haoyu Liu, Zhe Liu, Zeyu Wang, Jiabin Jia*, <span style="font-weight:bold; color:#E34234;">*Computer methods and programs in biomedicine*</span>, **2024**
+
+
+- [Long-Horizon FCS-MPC Trained 1-D Convolution Neural Networks for FPGA-Based Power-Electronic Converter Control With a Si/SiC Hybrid Converter Case Study](https://doi.org/10.1109/TIE.2025.3536555), Ning Li, **Hao Yu***, Stephen Finney, Paul D. Judge, <span style="font-weight:bold; color:#E34234;">*IEEE Transactions on Industrial Electronics*</span>, **2025**
 
 - [Torque performance improvement for slotted limited-angle torque motors by combined SMA application and GA optimization](https://doi.org/10.1109/TMAG.2020.3013442), **Hao Yu**, Guodong Yu*, Yongxiang Xu, Jibin Zou, <span style="font-weight:bold; color:#E34234;">*IEEE Transactions on Magnetics*</span>, **2020**
 
@@ -250,10 +252,8 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<spa
 
 - [A novel real-time efficacy assessment method for tumor treating fields](https://doi.org/10.1016/j.enganabound.2024.06.014), Yueyue Xiao$^{\#}$, Songpei Hu$^{\#}$, Chunxiao Chen*, **Hao Yu**, Liang Wang, Jie Yu, Bokai Chen, Ming Lu*, Jagath C. Rajapakse, <span style="font-weight:bold; color:#E34234;">*Engineering Analysis with Boundary Elements*</span>, **2025**
 
-- [High-resolution conductivity reconstruction by electrical impedance tomography using structure-aware hybrid-fusion learning](https://doi.org/10.1016/j.cmpb.2023.107861), **Hao Yu***, Haoyu Liu, Zhe Liu, Zeyu Wang, Jiabin Jia*, <span style="font-weight:bold; color:#E34234;">*Computer methods and programs in biomedicine*</span>, **2024**
 
 - [Extracting reference voltages from measurement voltages for oil-water two-phase flow measurement of electrical impedance tomography](https://doi.org/10.1016/j.flowmeasinst.2023.102304), **Hao Yu**, Xingchen Wan, Jiabin Jia*, <span style="font-weight:bold; color:#E34234;">*Flow Measurement and Instrumentation*</span>, **2023**
-<!-- 
 
 
 # 📖 Educations
