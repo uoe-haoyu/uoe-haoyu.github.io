@@ -21,7 +21,7 @@ redirect_from:
 <h2 style="font-weight:700;">Hao Yu</h2>
 <p><em>Research Associate @ <a href="https://www.ed.ac.uk" target="_blank" rel="noopener" style="color:#0066cc;">University of Edinburgh</a></em></p>
 
-<p style="line-height:2;">
+<p style="line-height:1.6;">
 I am a Postdoctoral Research Associate in the School of Engineering in the 
 <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener" style="color:#0066cc;">Institute for Imaging, Data and Communications (IDCOM)</a> 
 at the University of Edinburgh, supervised by 
@@ -49,7 +49,7 @@ This involves exploring a range of cutting-edge topics such as:
   <li><strong>Human-Machine Interaction:</strong> Perception, Decision, and Control</li>
 </ul> -->
 
-<p style="line-height:;">
+<p style="line-height:1.6;">
 📢 I am seeking highly self-motivated PhD, Master and Bachelor students or collaborators interested in intelligent sensing, trustworthy AI, and LLMs.  
 Feel free to reach out via email if you are interested in potential research collaborations.
 </p>
