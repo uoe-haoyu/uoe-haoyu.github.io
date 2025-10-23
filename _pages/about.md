@@ -252,39 +252,7 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 - [基于熵权-TOPSIS-DE模型对生产类原材料采购问题的研究](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TL9t8tzu88drtWW781FCijuNN7TbBbry4XcN-FGXrfDoSjCEMp0pv0xFL8aIqyUy7EeCzClaF_cmG8kVTnbfwtF9fulQ2J4c8Jo6qnzHfQH0nBbk9VFhV5gflTnPJJGNtlcPUfVFRdHIH6WzuueLMML-jpDBk6xD4ojzkhJk5lnlQ==&uniplatform=NZKPT&language=CHS), **朱宇坤**, 黎恒, 梁怡恬, 熊昕, <span style="font-weight:bold; color:#E34234;">*江汉大学学报(自然科学版)*</span>, **2023**
 
 - [基于大容量样本挖掘及贝叶斯堆栈泛化集成算法的电站锅炉NOx稳态建模](http://kns.cnki.net/kcms2/article/abstractv=laPQaQ7a6TKeapZz_FqlIie1OfkwCODwsHp_8Z_qVju3L2H0BrVvTznO7XZeWTeqwQyiEGnfqSxqO1nzgV5GxmWF1NVs7_GJVshWzphA-XXiyEg5FuiKpMRkxBD6xb7FSsJXv53FE5ZhfFUVvviYnLczvAimFvesEyS8vjxIWXdcDtHnhDYQ6g==&uniplatform=NZKPT&language=CHS), **朱宇坤**, 喻聪, 张梯华, 刘红娇, 司风琪, <span style="font-weight:bold; color:#E34234;">*热力发电，中国T1核心期刊*</span>, **2022**
-<!-- 
-## 🧑‍🔬 Patents and Softwares
-- [A method for online diagnosis of combustion performance in power plant boilers considering mode migration and subspace prior knowledge](https://patents.google.com/patent/CN115495976A/zh?oq=CN115495976A),Cong Yu, **Yukun Zhu**, Shuo Chen, Tihua Zhang.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115495976A*</span>, **2022**)
 
-- [A method for constructing a set of probabilities for deactivation of SCR catalyst in power plant considering local operational habits and coal quality influences](https://patents.google.com/patent/CN115455809A/zh?oq=CN115455809A), Cong Yu, Tihua Zhang, **Yukun Zhu**, Xiangyun Meng, Fang Hu.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115455809A*</span>, **2022**)
-
-- [A method for predicting the deactivation rate of SCR denitration catalyst considering coupled wear deformation and heterogeneous reaction](https://patents.google.com/patent/CN115458084A/zh?oq=CN115458084A), Cong Yu, Haojie Cui, Jing Cheng, Zuyun Liu, **Yukun Zhu**.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115458084A*</span>, **2022**)
-
-- Power Plant SCR Denitration System High-Capacity Sample Mining and Catalyst Life Prediction Software V1.0, Cong Yu, Ziliang Wang, **Yukun Zhu**, Tihua Zhang, Shuo Chen.(<span style="font-weight:bold; color:#E34234;">*Software*</span>, **2022**)
-
-# 🎖 Research Projects
-- 湖北省科技计划项目（基础研究类平台专项）：烟气脱硫碳催化氧化机理及关键技术研究, <span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2025.08-2027.08，在研；
-- 企业项目（湖北中烟工业有限责任公司武汉卷烟厂）：基于二维码的卷烟质量追溯能力提升的研究与应用, <span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2024.08-2025.10，在研
-- 东南大学外委项目：循环流化床锅炉燃烧过程数值模拟平台开发及试验测试分析，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2024.08-2025.12，在研
-- 企业项目（湖北凯龙化工集团股份有限公司）：工业互联网+民用爆炸物品生产及仓储智能化安全监控系统，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2023.06-2026.06，结题<span style="font-weight:bold; color:#E34234;">*(工信部鉴定, 国际领先水平)*</span>
-- 工业烟尘污染控制湖北省重点实验室开放课题（重点项目）：物理启发机器学习助力深调燃煤锅炉氮氧化物迁移行为预测与调控，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2023.09-2025.08，结题；
-- 湖北省环保型汽车油管智能制造企校联合创新中心基金：基于层析成像的高温炉精准光学测温技术及其数字化平台研发，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2022.8-2025.12，结题；
--  国家自然科学基金：煤粉富氧燃烧锅炉火焰稳定性与蒸发受热管热力特性的耦合机制研究，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2021.1-2023.12，结题；
--  江汉大学高层次人才科研项目：数据与机理融合驱动的燃煤电站脱硝催化剂寿命预测模型研究，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2021.1-2023.12，结题；
-
-# 🎖 Honors and Awards
-- *2025* <span style="font-weight:bold; color:#E34234;">**省级银奖**</span>, 2025年中国国际大学生创新大赛高教主赛道《智控爆险——国际先进型民用爆炸物品生产全流程安全智控技术》
-- *2025* <span style="font-weight:bold; color:#E34234;">**M Prize**</span>, Mathematical Contest in Modeling for American College Students(MCM/ICM)
-- *2024* <span style="font-weight:bold; color:#E34234;">**President's Scholarship of Jianghan University**</span> (Only 10 people in the whole school) 
-- *2024* <span style="font-weight:bold; color:#E34234;">**M Prize**</span>, Mathematical Contest in Modeling for American College Students(MCM/ICM)
-- *2023* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 4th MathorCup College Mathematical Modeling Challenge (Top 5 percent)
-- *2023* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 3rd MathorCup Mathematical Modeling Challenge in Colleges and Universities (Top 5 percent)
-- *2022* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 14th Huazhong Cup College Student Mathematical Modeling Challenge (Top 5 percent)
-- *2022* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 7th Shuwei Cup National Undergraduate Mathematical Modeling Challenge (Top 5 percent)
-- *2022* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The First "Dingding Cup" College Student Big Data Challenge (The first of 2439 teams)
-- *2022* <span style="font-weight:bold; color:#E34234;">**Second Prize**</span>, The 12th International Mathematical Contest in Modeling for University Students in the Asia-Pacific Region
-- *2022* <span style="font-weight:bold; color:#E34234;">**Second Prize**</span>, The 3rd National Undergraduate Algorithm Design and Programming Challenge (Top 10 percent)
-- *2021* <span style="font-weight:bold; color:#E34234;">**Second Prize**</span>, The 13th National Undergraduate Mathematics Competition (Top 10 percent)  -->
 
 # 📖 Educations
 - *2020.11 - 2025.03*, Ph.D. in Institute for Imaging, Data and Communications, University of Edinburgh, UK
