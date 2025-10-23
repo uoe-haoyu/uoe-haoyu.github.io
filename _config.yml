@@ -8,15 +8,17 @@
 # Site Settings
 title                    : "Hao Yu"
 description: |
-  <p class="site-desc">
+  <p class="site-desc" style="max-width:280px; white-space:normal; overflow-wrap:anywhere; word-break:break-word;">
     Research Associate in the institute for Imaging, Data and Communications.
   </p>
 
   <p class="site-desc"><strong>Research interests:</strong></p>
-  <ul class="site-desc-list">
+  <ul class="site-desc-list" style="max-width:280px; white-space:normal; overflow-wrap:anywhere; word-break:break-word; padding-left:18px; margin:0;">
     <li>Intelligent Sensing for Industrial Processes, Equipment, and Healthcare</li>
     <li>Large Language Models and Trustworthy Deep Learning</li>
     <li>High-sensitivity and Intelligent Electronic Skin</li>
+  </ul>
+
 repository   :: "/Users/edzyk/Documents/GitHub/YukunZhu-ED.github.io"
 google_scholar_stats_use_cdn : true
 
