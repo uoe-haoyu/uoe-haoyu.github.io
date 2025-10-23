@@ -149,7 +149,7 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<spa
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
   <a href="https://www.sciencedirect.com/science/article/pii/S0263224125013454" target="_blank" rel="noopener">
-    Feasibility analysis of EIT-guided lung tumor tracking with prior information for robotic arm-assisted radiotherapy
+Feasibility Analysis of EIT-Guided Lung Tumor Tracking with Prior Information for Robotic Arm-Assisted Radiotherapy
   </a>
 </span>
 **Hao Yu**, Hao Yu, Zhongxu Dong, Wei Han, Yang Wu, Chunpeng Wang, Zhe Liu, Jiabin Jia
@@ -205,7 +205,7 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<spa
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
   <a href="https://ieeexplore.ieee.org/abstract/document/9931742" target="_blank" rel="noopener">
-    Estimation of reference voltages for time-difference electrical impedance tomography
+  Estimation of Reference Voltages for Time-Difference Electrical Impedance Tomography
   </a>
 </span>
 **Hao Yu**, Xingchen Wan, Zhongxu Dong, Zhixi Zhang, Jiabin Jia
