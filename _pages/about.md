@@ -84,7 +84,7 @@ Feel free to reach out via email if you are interested in potential research col
 
 # 📝 Publications 
 ## 📄 Papers and Conferences
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2025</div><img src='images/P5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2025</div><img src='images/P6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
   <a href="https://doi.org/10.1016/j.frl.2025.107196" target="_blank" rel="noopener">
