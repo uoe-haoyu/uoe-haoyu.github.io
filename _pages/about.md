@@ -270,7 +270,7 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**\*
 
 <li><a href="https://doi.org/10.1109/TIM.2025.3572167">Integrating Kolmogorov-Arnold Network and UNet Architecture for Reconstruction of 3D Electrical Impedance Tomography to Assess the Efficacy of Tumor Treating Fields</a>, Yueyue Xiao<sup>#</sup>, Liang Wang<sup>#</sup>, Chunxiao Chen*, Songpei Hu, Ming Lu*, <b>Hao Yu</b>, Jagath C. Rajapakse, <span style="font-weight:bold; color:#E34234;">IEEE Transactions on Instrumentation and Measurement</span>, 2025</li>
 
-<li><a href="https://doi.org/10.1109/LGRS.2024.3415668">UFLUX v2.0: A Process-Informed Machine Learning Framework For Efficient And Explainable Modelling Of Terrestrial Carbon Uptake</a>, Wenquan Dong, Songyan Zhu*, Jian Xu, Casey M. Ryan, Man Chen, Jingya Zeng, <b>Hao Yu</b>, Congfeng Cao, Jiancheng Shi, <span style="font-weight:bold; color:#E34234;">IEEE Geoscience and Remote Sensing Letters</span>, 2025</li>
+<li><a href="https://doi.org/10.1109/LGRS.2025.3541893">UFLUX v2.0: A Process-Informed Machine Learning Framework For Efficient And Explainable Modelling Of Terrestrial Carbon Uptake</a>, Wenquan Dong, Songyan Zhu*, Jian Xu, Casey M. Ryan, Man Chen, Jingya Zeng, <b>Hao Yu</b>, Congfeng Cao, Jiancheng Shi, <span style="font-weight:bold; color:#E34234;">IEEE Geoscience and Remote Sensing Letters</span>, 2025</li>
 
 <li><a href="https://doi.org/10.1002/ima.70089">A Novel Generative Adversarial Network Based On Conditional VAE For EIT Reconstruction Of Lung Diseases</a>, Yueyue Xiao<sup>#</sup>, Jie Yu<sup>#</sup>, Chunxiao Chen*, Liang Wang, Songpei Hu, Bokai Chen, <b>Hao Yu</b>, <span style="font-weight:bold; color:#E34234;">International Journal of Imaging Systems and Technology</span>, 2025</li>
 
