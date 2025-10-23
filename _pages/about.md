@@ -231,7 +231,7 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**\*
 </div>
 
 
-[6] [High-Resolution Conductivity Reconstruction by Electrical Impedance Tomography using Structure-Aware Hybrid-Fusion Learning](https://doi.org/10.1016/j.cmpb.2023.107861), **Hao Yu**\*, Haoyu Liu, Zhe Liu, Zeyu Wang, Jiabin Jia\*, <span style="font-weight:bold; color:#E34234;">*Computer Methods and Programs in Biomedicine*</span>, **2024**
+<!-- [6] [High-Resolution Conductivity Reconstruction by Electrical Impedance Tomography using Structure-Aware Hybrid-Fusion Learning](https://doi.org/10.1016/j.cmpb.2023.107861), **Hao Yu**\*, Haoyu Liu, Zhe Liu, Zeyu Wang, Jiabin Jia\*, <span style="font-weight:bold; color:#E34234;">*Computer Methods and Programs in Biomedicine*</span>, **2024**
 
 [7] [Torque Performance Improvement For Slotted Limited-Angle Torque Motors By Combined SMA Application And GA Optimization](https://doi.org/10.1109/TMAG.2020.3006126), **Hao Yu**, Guodong Yu\*, Yongxiang Xu, Jibin Zou, <span style="font-weight:bold; color:#E34234;">*IEEE Transactions on Magnetics*</span>, **2020**
 
@@ -251,7 +251,33 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**\*
 
 [15] [A Novel Generative Adversarial Network Based On Conditional VAE For EIT Reconstruction Of Lung Diseases]( https://doi.org/10.1002/ima.70089), Yueyue Xiao<sup>#</sup>, Jie Yu<sup>#</sup>, Chunxiao Chen\*, Liang Wang, Songpei Hu, Bokai Chen, **Hao Yu**, <span style="font-weight:bold; color:#E34234;">*International Journal of Imaging Systems and Technology*</span>, **2025**
 
-[16] [A Novel Real-Time Efficacy Assessment Method For Tumor Treating Fields]( https://doi.org/10.1016/j.enganabound.2025.106278), Yueyue Xiao<sup>#</sup>, Songpei Hu<sup>#</sup>, Chunxiao Chen\*, **Hao Yu**, Liang Wang, Jie Yu, Bokai Chen, Ming Lu\*, Jagath C. Rajapakse, <span style="font-weight:bold; color:#E34234;">*Engineering Analysis with Boundary Elements*</span>, **2025**
+[16] [A Novel Real-Time Efficacy Assessment Method For Tumor Treating Fields]( https://doi.org/10.1016/j.enganabound.2025.106278), Yueyue Xiao<sup>#</sup>, Songpei Hu<sup>#</sup>, Chunxiao Chen\*, **Hao Yu**, Liang Wang, Jie Yu, Bokai Chen, Ming Lu\*, Jagath C. Rajapakse, <span style="font-weight:bold; color:#E34234;">*Engineering Analysis with Boundary Elements*</span>, **2025** -->
+
+
+<ol start="6">
+<li><a href="https://doi.org/10.1016/j.cmpb.2023.107861">High-Resolution Conductivity Reconstruction by Electrical Impedance Tomography using Structure-Aware Hybrid-Fusion Learning</a>, **Hao Yu**\*, Haoyu Liu, Zhe Liu, Zeyu Wang, Jiabin Jia\*, <span style="font-weight:bold; color:#E34234;">*Computer Methods and Programs in Biomedicine*</span>, **2024**</li>
+
+<li><a href="https://doi.org/10.1109/TMAG.2020.3006126">Torque Performance Improvement For Slotted Limited-Angle Torque Motors By Combined SMA Application And GA Optimization</a>, **Hao Yu**, Guodong Yu\*, Yongxiang Xu, Jibin Zou, <span style="font-weight:bold; color:#E34234;">*IEEE Transactions on Magnetics*</span>, **2020**</li>
+
+<li><a href="https://doi.org/10.1109/TIE.2025.3536555">Long-Horizon FCS-MPC Trained 1-D Convolution Neural Networks for FPGA-Based Power-Electronic Converter Control With a Si/SiC Hybrid Converter Case Study</a>, Ning Li, **Hao Yu**\*, Stephen Finney, Paul D. Judge, <span style="font-weight:bold; color:#E34234;">*IEEE Transactions on Industrial Electronics*</span>, **2025**</li>
+
+<li><a href="https://doi.org/10.1016/j.flowmeasinst.2022.102304">Extracting Reference Voltages From Measurement Voltages For Oil-Water Two-Phase Flow Measurement Of Electrical Impedance Tomography</a>, **Hao Yu**, Xingchen Wan, Jiabin Jia\*, <span style="font-weight:bold; color:#E34234;">*Flow Measurement and Instrumentation*</span>, **2023**</li>
+
+<li><a href="https://doi.org/10.1016/j.jag.2025.104814">Multimodal Deep Learning Enables Forest Height Mapping From Patchy Spaceborne LiDAR Using SAR And Passive Optical Satellite Data</a>, Man Chen, Wenquan Dong\*, **Hao Yu**\*, Iain H. Woodhouse, Casey M. Ryan, Haoyu Liu, Selena Georgiou, Edward T.A. Mitchard, <span style="font-weight:bold; color:#E34234;">*International Journal of Applied Earth Observation and Geoinformation*</span>, **2025**</li>
+
+<li><a href="https://doi.org/10.1016/j.ijepes.2025.111233">Phase-Angle-Free Harmonic Coupling Analysis And Injection Sites Identification Approach Via Data-Driven Regression Model Of Harmonic Voltage Versus Current</a>, Jieyu Yao, **Hao Yu**\*, Verner Püvi, Michael Merlin, Paul Judge, Sasa Djokic, <span style="font-weight:bold; color:#E34234;">*International Journal of Electrical Power and Energy Systems*</span>, **2025**</li>
+
+<li><a href="https://doi.org/10.1109/TIM.2023.3335525">V-pen: An Acoustic-Based Fine-Grained Virtual Pen Input System Using Hand Tracking</a>, Wei Han, Yinghao Li, **Hao Yu**, Jiabin Jia\*, <span style="font-weight:bold; color:#E34234;">*IEEE Transactions on Instrumentation and Measurement*</span>, **2023**</li>
+
+<li><a href="https://doi.org/10.1109/TIM.2025.3572167">Integrating Kolmogorov-Arnold Network and UNet Architecture for Reconstruction of 3D Electrical Impedance Tomography to Assess the Efficacy of Tumor Treating Fields</a>, Yueyue Xiao<sup>#</sup>, Liang Wang<sup>#</sup>, Chunxiao Chen\*, Songpei Hu, Ming Lu\*, **Hao Yu**, Jagath C. Rajapakse, <span style="font-weight:bold; color:#E34234;">*IEEE Transactions on Instrumentation and Measurement*</span>, **2025**</li>
+
+<li><a href="https://doi.org/10.1109/LGRS.2024.3415668">UFLUX v2.0: A Process-Informed Machine Learning Framework For Efficient And Explainable Modelling Of Terrestrial Carbon Uptake</a>, Wenquan Dong, Songyan Zhu\*, Jian Xu, Casey M. Ryan, Man Chen, Jingya Zeng, **Hao Yu**, Congfeng Cao, Jiancheng Shi, <span style="font-weight:bold; color:#E34234;">*IEEE Geoscience and Remote Sensing Letters*</span>, **2025**</li>
+
+<li><a href="https://doi.org/10.1002/ima.70089">A Novel Generative Adversarial Network Based On Conditional VAE For EIT Reconstruction Of Lung Diseases</a>, Yueyue Xiao<sup>#</sup>, Jie Yu<sup>#</sup>, Chunxiao Chen\*, Liang Wang, Songpei Hu, Bokai Chen, **Hao Yu**, <span style="font-weight:bold; color:#E34234;">*International Journal of Imaging Systems and Technology*</span>, **2025**</li>
+
+<li><a href="https://doi.org/10.1016/j.enganabound.2025.106278">A Novel Real-Time Efficacy Assessment Method For Tumor Treating Fields</a>, Yueyue Xiao<sup>#</sup>, Songpei Hu<sup>#</sup>, Chunxiao Chen\*, **Hao Yu**, Liang Wang, Jie Yu, Bokai Chen, Ming Lu\*, Jagath C. Rajapakse, <span style="font-weight:bold; color:#E34234;">*Engineering Analysis with Boundary Elements*</span>, **2025**</li>
+</ol>
+
 
 
 # 📖 Educations
