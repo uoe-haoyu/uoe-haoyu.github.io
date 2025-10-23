@@ -18,14 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🥰 Welcome!
-<h2 style="font-weight:700;">Yuhao Li</h2>
-<p><em>MScR Student @ <a href="https://www.ed.ac.uk" target="_blank" rel="noopener">University of Edinburgh</a></em></p>
+<h2 style="font-weight:700;">Hao Yu</h2>
+<p><em>Research Associate @ <a href="https://www.ed.ac.uk" target="_blank" rel="noopener">University of Edinburgh</a></em></p>
 
 <p style="line-height:1.6;">
-I am a Master of Science by Research student in the 
+I am a Postdoctoral Research Associate in the School of Engineering in the 
 <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications (IDCOM)</a> 
 at the University of Edinburgh, supervised by 
 <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a>. 
+
 My current research focuses on intelligent sensing, trustworthy deep learning, and smart measurement for industrial and healthcare applications. 
 Previously, I completed my B.Eng. in Intelligent Manufacturing at 
 <a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University</a>, 
