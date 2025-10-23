@@ -247,11 +247,11 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<spa
 
 - [UFLUX v2.0: A Process-Informed Machine Learning Framework For Efficient And Explainable Modelling Of Terrestrial Carbon Uptake](https://doi.org/10.1109/LGRS.2024.3415668), Wenquan Dong, Songyan Zhu\*, Jian Xu, Casey M. Ryan, Man Chen, Jingya Zeng, **Hao Yu**, Congfeng Cao, Jiancheng Shi, <span style="font-weight:bold; color:#E34234;">*IEEE Geoscience and Remote Sensing Letters*</span>, **2025**
 
-- [Integrating Kolmogorov-Arnold Network and UNet Architecture for Reconstruction of 3D Electrical Impedance Tomography to Assess the Efficacy of Tumor Treating Fields](https://doi.org/10.1109/TIM.2025.3572167), Yueyue Xiao$^{\#}$, Liang Wang$^{\#}$, Chunxiao Chen\*, Songpei Hu, Ming Lu\*, **Hao Yu**, Jagath C. Rajapakse, <span style="font-weight:bold; color:#E34234;">*IEEE Transactions on Instrumentation and Measurement*</span>, **2025**
+- [Integrating Kolmogorov-Arnold Network and UNet Architecture for Reconstruction of 3D Electrical Impedance Tomography to Assess the Efficacy of Tumor Treating Fields](https://doi.org/10.1109/TIM.2025.3572167), Yueyue Xiao<sup>#</sup>, Liang Wang<sup>#</sup>, Chunxiao Chen\*, Songpei Hu, Ming Lu\*, **Hao Yu**, Jagath C. Rajapakse, <span style="font-weight:bold; color:#E34234;">*IEEE Transactions on Instrumentation and Measurement*</span>, **2025**
 
-- [A Novel Generative Adversarial Network Based On Conditional VAE For EIT Reconstruction Of Lung Diseases]( https://doi.org/10.1002/ima.70089), Yueyue Xiao$^{\#}$, Jie Yu$^{\#}$, Chunxiao Chen\*, Liang Wang, Songpei Hu, Bokai Chen, **Hao Yu**, <span style="font-weight:bold; color:#E34234;">*International Journal of Imaging Systems and Technology*</span>, **2025**
+- [A Novel Generative Adversarial Network Based On Conditional VAE For EIT Reconstruction Of Lung Diseases]( https://doi.org/10.1002/ima.70089), Yueyue Xiao<sup>#</sup>, Jie Yu<sup>#</sup>, Chunxiao Chen\*, Liang Wang, Songpei Hu, Bokai Chen, **Hao Yu**, <span style="font-weight:bold; color:#E34234;">*International Journal of Imaging Systems and Technology*</span>, **2025**
 
-- [A Novel Real-Time Efficacy Assessment Method For Tumor Treating Fields]( https://doi.org/10.1016/j.enganabound.2025.106278), Yueyue Xiao$^{\#}$, Songpei Hu$^{\#}$, Chunxiao Chen\*, **Hao Yu**, Liang Wang, Jie Yu, Bokai Chen, Ming Lu\*, Jagath C. Rajapakse, <span style="font-weight:bold; color:#E34234;">*Engineering Analysis with Boundary Elements*</span>, **2025**
+- [A Novel Real-Time Efficacy Assessment Method For Tumor Treating Fields]( https://doi.org/10.1016/j.enganabound.2025.106278), Yueyue Xiao<sup>#</sup>, Songpei Hu<sup>#</sup>, Chunxiao Chen\*, **Hao Yu**, Liang Wang, Jie Yu, Bokai Chen, Ming Lu\*, Jagath C. Rajapakse, <span style="font-weight:bold; color:#E34234;">*Engineering Analysis with Boundary Elements*</span>, **2025**
 
 
 # 📖 Educations
