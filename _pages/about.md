@@ -19,21 +19,21 @@ redirect_from:
 
 # 🥰 Welcome!
 <h2 style="font-weight:700;">Hao Yu</h2>
-<p><em>Research Associate @ <a href="https://www.ed.ac.uk" target="_blank" rel="noopener">University of Edinburgh</a></em></p>
+<p><em>Research Associate @ <a href="https://www.ed.ac.uk" target="_blank" rel="noopener" style="color:#0066cc;">University of Edinburgh</a></em></p>
 
 <p style="line-height:2;">
 I am a Postdoctoral Research Associate in the School of Engineering in the 
-<a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications (IDCOM)</a> 
+<a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener" style="color:#0066cc;">Institute for Imaging, Data and Communications (IDCOM)</a> 
 at the University of Edinburgh, supervised by 
-<a href="https://eng.ed.ac.uk/about/people/dr-yunjie-yang" target="_blank" rel="noopener">Dr. Yunjie Yang</a>. 
+<a href="https://eng.ed.ac.uk/about/people/dr-yunjie-yang" target="_blank" rel="noopener" style="color:#0066cc;">Dr. Yunjie Yang</a>. 
 Previously, I completed my PhD at 
-<a href="https://www.ed.ac.uk/" target="_blank" rel="noopener">University of Edinburgh</a>, 
-advised by <a href="https://eng.ed.ac.uk/about/people/dr-jiabin-jia" target="_blank" rel="noopener">Dr. Jiabin Jia</a> 
-(co-advised by <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a>).
+<a href="https://www.ed.ac.uk/" target="_blank" rel="noopener" style="color:#0066cc;">University of Edinburgh</a>, 
+advised by <a href="https://eng.ed.ac.uk/about/people/dr-jiabin-jia" target="_blank" rel="noopener" style="color:#0066cc;">Dr. Jiabin Jia</a> 
+(co-advised by <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener" style="color:#0066cc;">Dr. Chang Liu</a>).
 Prior to that, I obtained my Master's degree from 
-<a href="http://en.hit.edu.cn/" target="_blank" rel="noopener">Harbin Institute of Technology</a>, 
-supervised by <a href="https://homepage.hit.edu.cn/zoujibin" target="_blank" rel="noopener">Prof. Jibin Zou</a> 
-and co-supervised by <a href="https://homepage.hit.edu.cn/yuguodong" target="_blank" rel="noopener">Prof. Guodong Yu</a>.
+<a href="http://en.hit.edu.cn/" target="_blank" rel="noopener" style="color:#0066cc;">Harbin Institute of Technology</a>, 
+supervised by <a href="https://homepage.hit.edu.cn/zoujibin" target="_blank" rel="noopener" style="color:#0066cc;">Prof. Jibin Zou</a> 
+and co-supervised by <a href="https://homepage.hit.edu.cn/yuguodong" target="_blank" rel="noopener" style="color:#0066cc;">Prof. Guodong Yu</a>.
 </p>
 
 <!-- <p style="line-height:1.6;">
