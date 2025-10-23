@@ -202,18 +202,16 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<spa
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy 2023</div><img src='images/P2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2022</div><img src='images/P10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
-  <a href="https://doi.org/10.1016/j.energy.2023.128128" target="_blank" rel="noopener">
-      A novel NOx emission prediction model for multimodal operational utility boilers considering local features and prior knowledge
+  <a href="https://ieeexplore.ieee.org/abstract/document/9931742" target="_blank" rel="noopener">
+    Estimation of reference voltages for time-difference electrical impedance tomography
   </a>
 </span>
-
-**Yukun Zhu**, Cong Yu📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
-{% assign doi = "10.1016/j.energy.2023.128128" %}
-[**Project**](https://doi.org/10.1016/j.energy.2023.128128)｜
+**Hao Yu**, Xingchen Wan, Zhongxu Dong, Zhixi Zhang, Jiabin Jia
+{% assign doi = "10.1109/TIM.2022.3217862" %}
+[**Project**](https://doi.org/10.1109/TIM.2022.3217862)｜
 <span class="project-with-badge">
   <a class="gs-citation-badge disabled"
      href="https://scholar.google.com/scholar?cites={{ doi }}"
@@ -228,12 +226,7 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<spa
     </span>
   </a>
 </span>｜
-<span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9.4)</span>
-
-
-
-- The monotonous LightGBM model fits better and presents a more stable performance in the single factor variation experiment than the model without prior information.
-- The robust multivariate steady-state algorithm can effectively reduce the impacts of outliers and accurately distinguish the boundaries between the steady-state interval and the non-steady-state interval
+<span style="font-weight:bold; color:#E34234;">*IEEE Transaction on Instrumentation and Measurement*</span>
 
 </div>
 </div>
