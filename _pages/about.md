@@ -18,36 +18,38 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🥰 Welcome!
-<p style="line-height: 1.6;">
-  I am pursuing an MScR at <a href="https://www.ed.ac.uk" target="_blank" rel="noopener">The University of Edinburgh</a>. Currently, I am reasearching in <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications(IDCOMs)</a>, supervisd by <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a> from the Department of Engineering.
+<h2 style="font-weight:700;">Yuhao Li</h2>
+<p><em>MScR Student @ <a href="https://www.ed.ac.uk" target="_blank" rel="noopener">University of Edinburgh</a></em></p>
+
+<p style="line-height:1.6;">
+I am a Master of Science by Research student in the 
+<a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications (IDCOM)</a> 
+at the University of Edinburgh, supervised by 
+<a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a>. 
+My current research focuses on intelligent sensing, trustworthy deep learning, and smart measurement for industrial and healthcare applications. 
+Previously, I completed my B.Eng. in Intelligent Manufacturing at 
+<a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University</a>, 
+advised by <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Dr. Cong Yu</a>.
 </p>
 
-<p style="line-height: 1.6;">
-  From 2020 to 2024, I completed a Bachelor’s degree in Intelligent Manufacturing at
-  <a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University</a>,
-  under the supervision of
-  <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Dr. Cong Yu</a>.
-  During this period, I also collaborated closely with leading scholars from many schools,
-  <a href="https://mypage.just.edu.cn/nydl/fw/list.htm" target="_blank" rel="noopener">Dr. Wei Fan</a>,
-  <a href="https://seh.jhun.edu.cn/86/8d/c6485a165517/page.htm" target="_blank" rel="noopener">Prof. Ling Shi</a>,
-  <a href="https://jjxy.jhun.edu.cn/15/9a/c1966a136602/pagem.htm" target="_blank" rel="noopener">Prof. Xia Liu</a>,
-  <a href="https://power.seu.edu.cn/rsj/listm.htm" target="_blank" rel="noopener">Dr. Shaojun Ren</a>,
-  <a href="http://school.freekaoyan.com/hb/jhun/2021/08-15/16290354621509372.shtml" target="_blank" rel="noopener">Prof. Xiaoli Hu</a>,
-  and
-  <a href="https://xiaohaotian.cc/" target="_blank" rel="noopener">Haotian Xiao</a>, et al.  
-  In collaboration with these scholars, my work has spanned multiple areas, including  
-  <span style="font-weight:bold; color:#E34234;">Optimized computational methods for quantum detuning</span>,  
-  <span style="font-weight:bold; color:#E34234;">Real-time dynamic data coordination of full-condition power units via spatiotemporal redundancy techniques</span>,  
-  Data-driven modeling of industrial processes fault diagnosis, Microstructure–interface heat-transfer analysis, Human posture detection and action-recognition algorithms, Empirical asset pricing and Robot simulation control and motion-planning strategies.
+<p style="line-height:1.6;">
+The central goal of my research is to develop reliable and efficient intelligent sensing systems that bridge physical processes and data-driven intelligence. 
+This involves exploring a range of cutting-edge topics such as:
 </p>
 
-<p style="line-height: 1.6;">
-    In recent years, I has participated as a core member in multiple key research and engineering projects, including grants from the 
-    <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank" rel="noopener">National Natural Science Foundation of China (NSFC)</a>, <a href="https://www.miit.gov.cn/" target="_blank" rel="noopener">the Ministry of Industry and Information Technology (MIIT) pilot program</a> on Internet + Safety Production in Civil Explosives, open projects at the Hubei Provincial Key Laboratory, and funding from the Hubei Enterprise‑University Joint Innovation Center. <span style="font-weight:bold; color:#E34234;"> One of the research outcomes achieved an internationally advanced level appraised by MIIT</span>.
+<ul style="line-height:1.6; margin-top:-5px;">
+  <li><strong>Intelligent Sensing:</strong> Industrial Processes, Equipment, and Healthcare</li>
+  <li><strong>Trustworthy AI:</strong> Reliable and Interpretable Deep Learning</li>
+  <li><strong>Large Language Models:</strong> Industrial Knowledge Modeling and Process Analysis</li>
+  <li><strong>Smart Measurement:</strong> Data-Driven Metrology and Sensor Fusion</li>
+  <li><strong>Human-Machine Interaction:</strong> Perception, Decision, and Control</li>
+</ul>
+
+<p style="line-height:1.6;">
+📢 I am seeking highly motivated students or collaborators interested in intelligent sensing, trustworthy AI, and industrial applications.  
+Feel free to reach out via email if you are interested in potential research collaborations.
 </p>
-<p style="line-height: 1.6;">
-    In the meantime, I have published over ten papers in reputable domestic and international journals such as Energy, JTICE, and FRL et al.; secured three invention patents; and obtained one software copyright.I served as a reviewer for international journals including Energy and AI, EIT, and IEEE Access，et al. In addition, I won more than twenty awards in competitions at various levels, comprising two international awards, eleven national awards, and nine provincial awards.
-</p>
+
 
 
 
