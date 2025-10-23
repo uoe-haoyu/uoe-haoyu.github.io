@@ -115,17 +115,16 @@ Feel free to reach out via email if you are interested in potential research col
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS OMEGA 2024</div><img src='images/P4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2025</div><img src='images/P4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
-  <a href="https://doi.org/10.1021/acsomega.4c05009" target="_blank" rel="noopener">
-    Forecast of NOx Emissions for a 660MW Coal-Fired Boiler with Multilayered Gradient Boosting Decision Tree Considering Multiple Operating Modes
+  <a href="https://ieeexplore.ieee.org/abstract/document/11129250" target="_blank" rel="noopener">
+    Interpretable Harmonic-Aware Dual-Branch Neural Network for Trustworthy Diagnosis of OCFs in DTP-PMSMs with Enhanced Disturbance Robustness
   </a>
 </span>
-
-Ziwei Wang, Yongzan Zhou, **Yukun Zhu**, Haiquan Yu, Wei Fan📧
-{% assign doi = "10.1021/acsomega.4c05009" %}
-[**Project**](https://doi.org/10.1021/acsomega.4c05009)｜
+Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<sup>*</sup>
+{% assign doi = "10.1109/TPEL.2025.3599747" %}
+[**Project**](https://doi.org/10.1109/TPEL.2025.3599747)｜
 <span class="project-with-badge">
   <a class="gs-citation-badge disabled"
      href="https://scholar.google.com/scholar?cites={{ doi }}"
@@ -140,10 +139,7 @@ Ziwei Wang, Yongzan Zhou, **Yukun Zhu**, Haiquan Yu, Wei Fan📧
     </span>
   </a>
 </span>｜
-<span style="font-weight:bold; color:#E34234;">*ACS OMEGA* (Q2,IF=3.7)</span>
-
-- **Feature extraction & fusion**: Use KICA to remove nonlinear correlations, then fuse independent components with key physics-based variables.
-- **Multimode segmentation**: Apply RGMM to identify distinct boiler operating modes and split data accordingly.
+<span style="font-weight:bold; color:#E34234;">*IEEE Transaction on Power Electronics*</span>
 
 </div>
 </div>
