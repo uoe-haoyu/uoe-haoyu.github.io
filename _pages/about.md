@@ -231,7 +231,7 @@ Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**<spa
 </div>
 
 
-- [High-Resolution Conductivity Reconstruction by Electrical Impedance Tomography using Structure-Aware Hybrid-Fusion Learning](https://doi.org/10.1016/j.cmpb.2023.107861), **Hao Yu**\*, Haoyu Liu, Zhe Liu, Zeyu Wang, Jiabin Jia\*, <span style="font-weight:bold; color:#0066cc;">*Computer methods and programs in biomedicine*</span>, **2024**
+- [High-Resolution Conductivity Reconstruction by Electrical Impedance Tomography using Structure-Aware Hybrid-Fusion Learning](https://doi.org/10.1016/j.cmpb.2023.107861), **Hao Yu**\*, Haoyu Liu, Zhe Liu, Zeyu Wang, Jiabin Jia\*, <span style="font-weight:bold; color:#0066cc;">*Computer Methods and Programs in biomedicine*</span>, **2024**
 
 - [Torque Performance Improvement For Slotted Limited-Angle Torque Motors By Combined SMA Application And GA Optimization](https://doi.org/10.1109/TMAG.2020.3006126), **Hao Yu**, Guodong Yu\*, Yongxiang Xu, Jibin Zou, <span style="font-weight:bold; color:#0066cc;">*IEEE Transactions on Magnetics*</span>, **2020**
 
