@@ -58,9 +58,7 @@ redirect_from:
 - *2025.10*: &nbsp;🎉🎉 Awarded the <b style="color:#000000;">Danish DSSA Visit Grant</b> to conduct a short-term research visit at the <span style="font-weight:bold; color:#E34234;">Medical Robotics Lab, University of Southern Denmark</span>.
 
 
-- *2025.09*: &nbsp;🎉🎉 Awarded the <b style="color:#000000;">Danish DSSA Visit Grant</b> to conduct a short-term research visit at the <span style="font-weight:bold; color:#E34234;">Medical Robotics Lab, University of Southern Denmark</span>.
-
-
+- *2025.09*: &nbsp;🎯 Will serve as a <b style="color:#000000;">Session Chair</b> for the <span style="font-weight:bold; color:#E34234;">Special Session "Medical Tomography in the AI Era: From Smart Measurement to Clinical Translation"</span> at <b>IEEE International Instrumentation and Measurement Technology Conference 2026</b>. See you in France 🇫🇷!
 
 
 - *2025.04*: &nbsp;👨‍🔬 Joined the <span style="font-weight:bold; color:#E34234;">SMART Group, University of Edinburgh</span> as a <b style="color:#000000;">Research Associate</b>.
@@ -68,19 +66,6 @@ redirect_from:
 - *2025.04*: &nbsp;🎓 Successfully obtained the <b style="color:#000000;">Ph.D. degree</b> from the <span style="font-weight:bold; color:#E34234;">University of Edinburgh</span>.
 
 
-
-
-
-
-- *2024.12*: &nbsp;🎉🎉与湖北凯龙化工集团股份有限公司合作开发的<b style="color: #000000;">工业互联网+民用爆炸物品生产及仓储智能化安全监控系统</b>被中国工信部鉴定为<span style="font-weight:bold; color:#E34234;">国际先进水平</span>.
-- *2024.06*: &nbsp;🎊🎊 <a href="https://xsc.jhun.edu.cn/14/3c/c8300a201788/pagem.htm" target="_blank" rel="noopener">"星光不问赶路人,时光不负有心人"</a>;<a href="https://www.jhun.edu.cn/ac/4d/c208a175181/page.htm" target="_blank" rel="noopener">“聚青春之火,燃时代之光”</a>;<a href="http://hb.people.com.cn/n2/2024/0807/c192237-40936599.html" target="_blank" rel="noopener">“一站式”智工学区护航大学生成长成才"</a>;<a href="http://news.cnhubei.com/content/2024-06/25/content_18090027.html" target="_blank" rel="noopener">"挺膺担当新征程，逐梦扬帆再起航"</a>;<a href="https://jjxy.jhun.edu.cn/b4/f1/c1968a177393/pagem.htm" target="_blank" rel="noopener">"耐得住寂寞，才能厚积薄发"</a>相关事迹被学校媒体机构宣传.
-
-- *2024.04*: &nbsp;🥳🥳 Received the Offer from the University of Edinburgh (MScR, Digital Communications).
-- *2024.01*: &nbsp;🎉🎉 Our new journal article, <b style="color: #000000;">*Mechanism-enhanced data-driven method for the joint optimization of boiler combustion and selective catalytic reduction systems considering gas temperature deviations*</b>, Accepted by <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>. Reviewers praised its innovative approach and high quality.
-
-- *2023.06*: &nbsp;🥂🥂 <a href="https://www.nmmcm.org.cn/notice_detail/231" target="_blank" rel="noopener">"2022年钉钉杯大数据挑战赛复赛一等奖被官方邀请在网上发表获奖感言，并且进行建模经验分享"</a>.
-
-- *2023.06*: &nbsp;🎊🎊 The first Journal article, <b style="color: #000000;">*A novel NOx emission prediction model for multimodal operational utility boilers considering local features and prior knowledge*</b> Accepted by <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>.
 
 <!--- *2014.06*: &nbsp;🥳🥳 小学奥赛新希望杯，老新希望杯，华罗庚杯，创新杯，世界奥林匹克，新星杯，新苗杯，IMAS,学用杯等金满贯-->
 
