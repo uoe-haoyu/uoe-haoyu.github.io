@@ -122,7 +122,7 @@ Feel free to reach out via email if you are interested in potential research col
     Interpretable Harmonic-Aware Dual-Branch Neural Network for Trustworthy Diagnosis of OCFs in DTP-PMSMs with Enhanced Disturbance Robustness
   </a>
 </span>
-Boyuan Zheng; Bingtao Liu; Junyu Yan; Mi Tang; Pericle Zanchetta; **Hao Yu**\*
+Boyuan Zheng, Bingtao Liu, Junyu Yan, Mi Tang, Pericle Zanchetta, **Hao Yu**\*
 {% assign doi = "10.1109/TPEL.2025.3599747" %}
 [**Project**](https://doi.org/10.1109/TPEL.2025.3599747)｜
 <span class="project-with-badge">
