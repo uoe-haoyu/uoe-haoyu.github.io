@@ -43,7 +43,7 @@ My research focuses on physical AI driven by instrumentation and measurement, ex
 <ul style="line-height:1.6; margin-top:-5px;">
   <li><strong>Physical AI for Sensing:</strong> Industrial Processes, Equipment Health, Healthcare, and Environmental Remote Sensing</li>
   <li><strong>Trustworthy AI:</strong> Reliable and Interpretable Deep Learning and Large Language Models</li>
-</ul> -->
+</ul>
 
 <p style="line-height:1.6;">
 📢 I am seeking highly self-motivated PhD, Master and Bachelor students or collaborators interested in intelligent sensing, trustworthy AI, and LLMs.  
