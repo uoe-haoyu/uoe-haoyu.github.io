@@ -55,6 +55,9 @@ Feel free to reach out via email if you are interested in potential research col
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IIEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing </span>.
+
+
 - *2025.10*: &nbsp;👏👏 Received the funding from the EPSRC IAA Innovation Competition as a Principal Investigator (PI).
 
 - *2025.10*: &nbsp;🎉🎉 Awarded the Danish DSSA Visit Grant to conduct a short-term research visit.
