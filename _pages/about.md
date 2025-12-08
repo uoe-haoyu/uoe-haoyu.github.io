@@ -55,6 +55,10 @@ Feel free to reach out via email if you are interested in potential research col
 
 
 # 🔥 News
+
+- *2025.11*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">Engineering Applications of Artificial Intelligence </span>.
+
+
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing </span>.
 
 
