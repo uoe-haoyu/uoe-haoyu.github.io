@@ -235,6 +235,15 @@ Boyuan Zheng, Bingtao Liu, Junyu Yan, Mi Tang, Pericle Zanchetta, **Hao Yu**\*
 
 
 <ol start="6">
+
+<li><a href="https://doi.org/10.1016/j.cmpb.2023.107861">Deep Dynamic Image Prior for Three-dimensional Time-sequence Pulmonary Electrical Impedance Tomography</a>, Hao Fang, <b>Hao Yu*</b>, Sihao Teng, Tao Zhang, Siyi Yuan, Huaiwu He, Zhe Liu, Yunjie Yang, <span style="font-weight:bold; color:#E34234;">Engineering Applications of Artificial Intelligence</span>, 2026</li>
+
+<li><a href="https://doi.org/10.1016/j.cmpb.2023.107861">Synergistic Fusion of Sentinel-1 and Sentinel-2 for Global LULC Mapping: The Multimodal Network LULC-Former and Dynamic World+ Dataset
+</a>, <b>Hao Yu</b>, Gen Li, Haoyu Liu, Songyan Zhu, Jian Xu, Wenquan Dong, Changjian Li, Jiancheng Shi, <span style="font-weight:bold; color:#E34234;">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</span>, 2026</li>
+
+
+
+
 <li><a href="https://doi.org/10.1016/j.cmpb.2023.107861">High-Resolution Conductivity Reconstruction by Electrical Impedance Tomography using Structure-Aware Hybrid-Fusion Learning</a>, <b>Hao Yu*</b>, Haoyu Liu, Zhe Liu, Zeyu Wang, Jiabin Jia*, <span style="font-weight:bold; color:#E34234;">Computer Methods and Programs in Biomedicine</span>, 2024</li>
 
 <li><a href="https://doi.org/10.1109/TMAG.2020.3006126">Torque Performance Improvement For Slotted Limited-Angle Torque Motors By Combined SMA Application And GA Optimization</a>, <b>Hao Yu</b>, Guodong Yu*, Yongxiang Xu, Jibin Zou, <span style="font-weight:bold; color:#E34234;">IEEE Transactions on Magnetics</span>, 2020</li>
