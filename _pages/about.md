@@ -56,6 +56,10 @@ Feel free to reach out via email if you are interested in potential research col
 
 # 🔥 News
 
+- *2026.02*: &nbsp;🎉🎉 Secured $5,000 in funding from Google to support the healthcare agent project.
+
+- *2026.01*: &nbsp;👏👏 Appointed as a Fellow at Edinburgh Generative AI Laboratory.
+
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">Engineering Applications of Artificial Intelligence </span>.
 
 
