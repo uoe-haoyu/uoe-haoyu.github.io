@@ -60,10 +60,10 @@ Feel free to reach out via email if you are interested in potential research col
 
 - *2026.01*: &nbsp;👏👏 Appointed as a Fellow at Edinburgh Generative AI Laboratory.
 
-- *2025.11*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">Engineering Applications of Artificial Intelligence </span>.
+- *2025.11*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">Engineering Applications of Artificial Intelligence</span>.
 
 
-- *2025.10*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing </span>.
+- *2025.10*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</span>.
 
 
 - *2025.10*: &nbsp;👏👏 Received the funding from the EPSRC IAA Innovation Competition as a Principal Investigator (PI).
