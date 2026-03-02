@@ -22,7 +22,7 @@ redirect_from:
 <p><em>Research Associate @ <a href="https://www.ed.ac.uk" target="_blank" rel="noopener" style="color:#0066cc;">University of Edinburgh</a></em></p>
 
 <p style="line-height:1.6;">
-I am a Postdoctoral Research Associate in the School of Engineering in the 
+I am a Postdoctoral Research Associate and <a href="https://gail.ed.ac.uk/about-gail/gail-fellows" target="_blank" rel="noopener" style="color:#0066cc;">Edinburgh Generative AI Laboratory Fellow</a>, in the School of Engineering in the
 <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener" style="color:#0066cc;">Institute for Imaging, Data and Communications (IDCOM)</a> 
 at the University of Edinburgh, supervised by 
 <a href="https://eng.ed.ac.uk/about/people/dr-yunjie-yang" target="_blank" rel="noopener" style="color:#0066cc;">Dr. Yunjie Yang</a>. 
