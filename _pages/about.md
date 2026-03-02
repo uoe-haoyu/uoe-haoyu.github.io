@@ -58,8 +58,7 @@ Feel free to reach out via email if you are interested in potential research col
 
 <style>
   .news-scroll { max-height: 300px; overflow-y: auto; border: 1px solid #e8e8e8; border-radius: 6px; padding: 10px 15px; margin-bottom: 10px; }
-  .news-scroll .news-item { display: block; padding: 6px 0; border-bottom: 1px solid #f0f0f0; }
-  .news-scroll .news-item:last-child { border-bottom: none; }
+  .news-scroll .news-item { display: block; padding: 6px 0; }
 </style>
 <div class="news-scroll">
   <div class="news-item"><em>2026.02</em>: &nbsp;🎉🎉 Received the GAIL Seed Funding from Edinburgh Generative AI Laboratory.</div>
