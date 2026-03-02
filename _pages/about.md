@@ -56,37 +56,24 @@ Feel free to reach out via email if you are interested in potential research col
 
 # 🔥 News
 
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #e8e8e8; border-radius: 6px; padding: 10px 15px; margin-bottom: 10px;">
+
 - *2026.02*: &nbsp;🎉🎉 Received the GAIL Seed Funding from Edinburgh Generative AI Laboratory.
-
-
 - *2026.02*: &nbsp;🎉🎉 Three papers accepted by <span style="color:#0066cc;">IEEE International Instrumentation and Measurement Technology Conference</span>.
-
 - *2026.02*: &nbsp;🎉🎉 Secured $5,000 in funding from Google to support the healthcare agent project.
-
 - *2026.01*: &nbsp;👏👏 Appointed as a Fellow at Edinburgh Generative AI Laboratory.
-
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">Engineering Applications of Artificial Intelligence</span>.
-
-
 - *2025.10*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</span>.
-
-
 - *2025.10*: &nbsp;👏👏 Received the funding from the EPSRC IAA Innovation Competition as a Principal Investigator (PI).
-
 - *2025.10*: &nbsp;🎉🎉 Awarded the Danish DSSA Visit Grant to conduct a short-term research visit.
-
 - *2025.09*: &nbsp;🎯 Will serve as a Session Chair for the Special Session "Medical Tomography in the AI Era: From Smart Measurement to Clinical Translation" at IEEE International Instrumentation and Measurement Technology Conference 2026. See you in France 🇫🇷!
-
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">International Journal of Applied Earth Observation and Geoinformation</span>.
-
 - *2025.06*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Transactions on Power Electronics</span>.
-
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Transactions on Industrial Electronics</span>.
-
-
 - *2025.04*: &nbsp;👨‍🔬 Joined the SMART Group, University of Edinburgh as a Research Associate.
-
 - *2025.04*: &nbsp;🎓 Successfully obtained the Ph.D. degree from the University of Edinburgh.
+
+</div>
 
 
 
