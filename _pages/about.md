@@ -56,23 +56,26 @@ Feel free to reach out via email if you are interested in potential research col
 
 # 🔥 News
 
-<div style="max-height: 300px; overflow-y: auto; border: 1px solid #e8e8e8; border-radius: 6px; padding: 10px 15px; margin-bottom: 10px;">
-<ul style="list-style: disc; padding-left: 20px;">
-  <li><em>2026.02</em>: &nbsp;🎉🎉 Received the GAIL Seed Funding from Edinburgh Generative AI Laboratory.</li>
-  <li><em>2026.02</em>: &nbsp;🎉🎉 Three papers accepted by <span style="color:#0066cc;">IEEE International Instrumentation and Measurement Technology Conference</span>.</li>
-  <li><em>2026.02</em>: &nbsp;🎉🎉 Secured $5,000 in funding from Google to support the healthcare agent project.</li>
-  <li><em>2026.01</em>: &nbsp;👏👏 Appointed as a Fellow at Edinburgh Generative AI Laboratory.</li>
-  <li><em>2025.11</em>: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">Engineering Applications of Artificial Intelligence</span>.</li>
-  <li><em>2025.10</em>: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</span>.</li>
-  <li><em>2025.10</em>: &nbsp;👏👏 Received the funding from the EPSRC IAA Innovation Competition as a Principal Investigator (PI).</li>
-  <li><em>2025.10</em>: &nbsp;🎉🎉 Awarded the Danish DSSA Visit Grant to conduct a short-term research visit.</li>
-  <li><em>2025.09</em>: &nbsp;🎯 Will serve as a Session Chair for the Special Session "Medical Tomography in the AI Era: From Smart Measurement to Clinical Translation" at IEEE International Instrumentation and Measurement Technology Conference 2026. See you in France 🇫🇷!</li>
-  <li><em>2025.07</em>: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">International Journal of Applied Earth Observation and Geoinformation</span>.</li>
-  <li><em>2025.06</em>: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Transactions on Power Electronics</span>.</li>
-  <li><em>2025.05</em>: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Transactions on Industrial Electronics</span>.</li>
-  <li><em>2025.04</em>: &nbsp;👨‍🔬 Joined the SMART Group, University of Edinburgh as a Research Associate.</li>
-  <li><em>2025.04</em>: &nbsp;🎓 Successfully obtained the Ph.D. degree from the University of Edinburgh.</li>
-</ul>
+<style>
+  .news-scroll { max-height: 300px; overflow-y: auto; border: 1px solid #e8e8e8; border-radius: 6px; padding: 10px 15px; margin-bottom: 10px; }
+  .news-scroll .news-item { display: block; padding: 6px 0; border-bottom: 1px solid #f0f0f0; }
+  .news-scroll .news-item:last-child { border-bottom: none; }
+</style>
+<div class="news-scroll">
+  <div class="news-item"><em>2026.02</em>: &nbsp;🎉🎉 Received the GAIL Seed Funding from Edinburgh Generative AI Laboratory.</div>
+  <div class="news-item"><em>2026.02</em>: &nbsp;🎉🎉 Three papers accepted by <span style="color:#0066cc;">IEEE International Instrumentation and Measurement Technology Conference</span>.</div>
+  <div class="news-item"><em>2026.02</em>: &nbsp;🎉🎉 Secured $5,000 in funding from Google to support the healthcare agent project.</div>
+  <div class="news-item"><em>2026.01</em>: &nbsp;👏👏 Appointed as a Fellow at Edinburgh Generative AI Laboratory.</div>
+  <div class="news-item"><em>2025.11</em>: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">Engineering Applications of Artificial Intelligence</span>.</div>
+  <div class="news-item"><em>2025.10</em>: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</span>.</div>
+  <div class="news-item"><em>2025.10</em>: &nbsp;👏👏 Received the funding from the EPSRC IAA Innovation Competition as a Principal Investigator (PI).</div>
+  <div class="news-item"><em>2025.10</em>: &nbsp;🎉🎉 Awarded the Danish DSSA Visit Grant to conduct a short-term research visit.</div>
+  <div class="news-item"><em>2025.09</em>: &nbsp;🎯 Will serve as a Session Chair for the Special Session "Medical Tomography in the AI Era: From Smart Measurement to Clinical Translation" at IEEE International Instrumentation and Measurement Technology Conference 2026. See you in France 🇫🇷!</div>
+  <div class="news-item"><em>2025.07</em>: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">International Journal of Applied Earth Observation and Geoinformation</span>.</div>
+  <div class="news-item"><em>2025.06</em>: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Transactions on Power Electronics</span>.</div>
+  <div class="news-item"><em>2025.05</em>: &nbsp;🎉🎉 One paper accepted by <span style="color:#0066cc;">IEEE Transactions on Industrial Electronics</span>.</div>
+  <div class="news-item"><em>2025.04</em>: &nbsp;👨‍🔬 Joined the SMART Group, University of Edinburgh as a Research Associate.</div>
+  <div class="news-item"><em>2025.04</em>: &nbsp;🎓 Successfully obtained the Ph.D. degree from the University of Edinburgh.</div>
 </div>
 
 
